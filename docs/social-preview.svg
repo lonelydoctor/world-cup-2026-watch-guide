@@ -26,14 +26,20 @@
   <text x="72" y="286" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="72" font-weight="900">2026 世界杯观赛管家</text>
   <text x="72" y="348" fill="#d7eee3" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700">赛程筛选 · 对阵图 · 城市地图 · 日历导出</text>
   <text x="72" y="408" fill="#9ebcaf" font-family="Arial, Helvetica, sans-serif" font-size="26">Rule-based concierge for Chinese World Cup viewers</text>
-  <g transform="translate(72 480)" fill="none" stroke="#f5cf5b" stroke-width="2">
-    <rect x="0" y="0" width="178" height="54" rx="8"/>
-    <rect x="202" y="0" width="184" height="54" rx="8"/>
-    <rect x="410" y="0" width="168" height="54" rx="8"/>
+  <g transform="translate(72 480)">
+    <g>
+      <rect x="0" y="0" width="220" height="56" rx="8" fill="none" stroke="#f5cf5b" stroke-width="2"/>
+      <text x="110" y="36" text-anchor="middle" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700">104 Matches</text>
+    </g>
+    <g transform="translate(248 0)">
+      <rect x="0" y="0" width="242" height="56" rx="8" fill="none" stroke="#f5cf5b" stroke-width="2"/>
+      <text x="121" y="36" text-anchor="middle" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700">16 Host Cities</text>
+    </g>
+    <g transform="translate(518 0)">
+      <rect x="0" y="0" width="200" height="56" rx="8" fill="none" stroke="#f5cf5b" stroke-width="2"/>
+      <text x="100" y="36" text-anchor="middle" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700">6h Refresh</text>
+    </g>
   </g>
-  <text x="103" y="515" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700">104 Matches</text>
-  <text x="234" y="515" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700">16 Host Cities</text>
-  <text x="443" y="515" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700">6h Refresh</text>
   <g transform="translate(760 206)">
     <path d="M0 260 180 70h280l190 190H0Z" fill="#0b5b37" opacity=".9"/>
     <path d="M180 70h280M90 165h550M0 260h650M325 70v190" stroke="#e8f5ee" stroke-opacity=".4" stroke-width="4" fill="none"/>
