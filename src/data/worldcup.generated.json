@@ -1,0 +1,2654 @@
+{
+  "generatedAt": "2026-06-22T05:28:16.828Z",
+  "source": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup",
+  "sourceUrl": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup",
+  "matches": [
+    {
+      "id": "m001",
+      "matchNumber": 1,
+      "phase": "小组赛",
+      "round": "Group stage",
+      "group": "A",
+      "date": "2026-06-11",
+      "localTime": "1:00 p.m. UTC-6",
+      "kickoffUtc": "2026-06-11T19:00:00.000Z",
+      "utcOffset": -6,
+      "venueId": "estadio-azteca",
+      "venueLabel": "Estadio Azteca, Mexico City",
+      "home": {
+        "type": "team",
+        "name": "Mexico"
+      },
+      "away": {
+        "type": "team",
+        "name": "South Africa"
+      },
+      "status": "finished",
+      "score": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "m002",
+      "matchNumber": 2,
+      "phase": "小组赛",
+      "round": "Group stage",
+      "group": "A",
+      "date": "2026-06-11",
+      "localTime": "8:00 p.m. UTC-6",
+      "kickoffUtc": "2026-06-12T02:00:00.000Z",
+      "utcOffset": -6,
+      "venueId": "estadio-akron",
+      "venueLabel": "Estadio Akron, Zapopan",
+      "home": {
+        "type": "team",
+        "name": "South Korea"
+      },
+      "away": {
+        "type": "team",
+        "name": "Czech Republic"
+      },
+      "status": "finished",
+      "score": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "m003",
+      "matchNumber": 3,
+      "phase": "小组赛",
+      "round": "Group stage",
+      "group": "B",
+      "date": "2026-06-12",
+      "localTime": "3:00 p.m. UTC-4",
+      "kickoffUtc": "2026-06-12T19:00:00.000Z",
+      "utcOffset": -4,
+      "venueId": "bmo-field",
+      "venueLabel": "BMO Field, Toronto",
+      "home": {
+        "type": "team",
+        "name": "Canada"
+      },
+      "away": {
+        "type": "team",
+        "name": "Bosnia and Herzegovina"
+      },
+      "status": "finished",
+      "score": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "m004",
+      "matchNumber": 4,
+      "phase": "小组赛",
+      "round": "Group stage",
+      "group": "D",
+      "date": "2026-06-12",
+      "localTime": "6:00 p.m. UTC-7",
+      "kickoffUtc": "2026-06-13T01:00:00.000Z",
+      "utcOffset": -7,
+      "venueId": "sofi-stadium",
+      "venueLabel": "SoFi Stadium, Inglewood",
+      "home": {
+        "type": "team",
+        "name": "United States"
+      },
+      "away": {
+        "type": "team",
+        "name": "Paraguay"
+      },
+      "status": "finished",
+      "score": {
+        "home": 4,
+        "away": 1
+      }
+    },
+    {
+      "id": "m005",
+      "matchNumber": 5,
+      "phase": "小组赛",
+      "round": "Group stage",
+      "group": "C",
+      "date": "2026-06-13",
+      "localTime": "9:00 p.m. UTC-4",
+      "kickoffUtc": "2026-06-14T01:00:00.000Z",
+      "utcOffset": -4,
+      "venueId": "gillette-stadium",
+      "venueLabel": "Gillette Stadium, Foxborough",
+      "home": {
+        "type": "team",
+        "name": "Haiti"
+      },
+      "away": {
+        "type": "team",
+        "name": "Scotland"
+      },
+      "status": "finished",
+      "score": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "m006",
+      "matchNumber": 6,
+      "phase": "小组赛",
+      "round": "Group stage",
+      "group": "D",
+      "date": "2026-06-13",
+      "localTime": "9:00 p.m. UTC-7",
+      "kickoffUtc": "2026-06-14T04:00:00.000Z",
+      "utcOffset": -7,
+      "venueId": "bc-place",
+      "venueLabel": "BC Place, Vancouver",
+      "home": {
+        "type": "team",
+        "name": "Australia"
+      },
+      "away": {
+        "type": "team",
+        "name": "Turkey"
+      },
+      "status": "finished",
+      "score": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "m007",
+      "matchNumber": 7,
+      "phase": "小组赛",
+      "round": "Group stage",
+      "group": "C",
+      "date": "2026-06-13",
+      "localTime": "6:00 p.m. UTC-4",
+      "kickoffUtc": "2026-06-13T22:00:00.000Z",
+      "utcOffset": -4,
+      "venueId": "metlife-stadium",
+      "venueLabel": "MetLife Stadium, East Rutherford",
+      "home": {
+        "type": "team",
+        "name": "Brazil"
+      },
+      "away": {
+        "type": "team",
+        "name": "Morocco"
+      },
+      "status": "finished",
+      "score": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "m008",
+      "matchNumber": 8,
+      "phase": "小组赛",
+      "round": "Group stage",
+      "group": "B",
+      "date": "2026-06-13",
+      "localTime": "12:00 p.m. UTC-7",
+      "kickoffUtc": "2026-06-13T19:00:00.000Z",
+      "utcOffset": -7,
+      "venueId": "levi-s-stadium",
+      "venueLabel": "Levi's Stadium, Santa Clara",
+      "home": {
+        "type": "team",
+        "name": "Qatar"
+      },
+      "away": {
+        "type": "team",
+        "name": "Switzerland"
+      },
+      "status": "finished",
+      "score": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "m009",
+      "matchNumber": 9,
+      "phase": "小组赛",
+      "round": "Group stage",
+      "group": "E",
+      "date": "2026-06-14",
+      "localTime": "7:00 p.m. UTC-4",
+      "kickoffUtc": "2026-06-14T23:00:00.000Z",
+      "utcOffset": -4,
+      "venueId": "lincoln-financial-field",
+      "venueLabel": "Lincoln Financial Field, Philadelphia",
+      "home": {
+        "type": "team",
+        "name": "Ivory Coast"
+      },
+      "away": {
+        "type": "team",
+        "name": "Ecuador"
+      },
+      "status": "finished",
+      "score": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "m010",
+      "matchNumber": 10,
+      "phase": "小组赛",
+      "round": "Group stage",
+      "group": "E",
+      "date": "2026-06-14",
+      "localTime": "12:00 p.m. UTC-5",
+      "kickoffUtc": "2026-06-14T17:00:00.000Z",
+      "utcOffset": -5,
+      "venueId": "nrg-stadium",
+      "venueLabel": "NRG Stadium, Houston",
+      "home": {
+        "type": "team",
+        "name": "Germany"
+      },
+      "away": {
+        "type": "team",
+        "name": "Curaçao"
+      },
+      "status": "finished",
+      "score": {
+        "home": 7,
+        "away": 1
+      }
+    },
+    {
+      "id": "m011",
+      "matchNumber": 11,
+      "phase": "小组赛",
+      "round": "Group stage",
+      "group": "F",
+      "date": "2026-06-14",
+      "localTime": "3:00 p.m. UTC-5",
+      "kickoffUtc": "2026-06-14T20:00:00.000Z",
+      "utcOffset": -5,
+      "venueId": "atandt-stadium",
+      "venueLabel": "AT&T Stadium, Arlington",
+      "home": {
+        "type": "team",
+        "name": "Netherlands"
+      },
+      "away": {
+        "type": "team",
+        "name": "Japan"
+      },
+      "status": "finished",
+      "score": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "m012",
+      "matchNumber": 12,
+      "phase": "小组赛",
+      "round": "Group stage",
+      "group": "F",
+      "date": "2026-06-14",
+      "localTime": "8:00 p.m. UTC-6",
+      "kickoffUtc": "2026-06-15T02:00:00.000Z",
+      "utcOffset": -6,
+      "venueId": "estadio-bbva",
+      "venueLabel": "Estadio BBVA, Guadalupe",
+      "home": {
+        "type": "team",
+        "name": "Sweden"
+      },
+      "away": {
+        "type": "team",
+        "name": "Tunisia"
+      },
+      "status": "finished",
+      "score": {
+        "home": 5,
+        "away": 1
+      }
+    },
+    {
+      "id": "m013",
+      "matchNumber": 13,
+      "phase": "小组赛",
+      "round": "Group stage",
+      "group": "H",
+      "date": "2026-06-15",
+      "localTime": "6:00 p.m. UTC-4",
+      "kickoffUtc": "2026-06-15T22:00:00.000Z",
+      "utcOffset": -4,
+      "venueId": "hard-rock-stadium",
+      "venueLabel": "Hard Rock Stadium, Miami Gardens",
+      "home": {
+        "type": "team",
+        "name": "Saudi Arabia"
+      },
+      "away": {
+        "type": "team",
+        "name": "Uruguay"
+      },
+      "status": "finished",
+      "score": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "m014",
+      "matchNumber": 14,
+      "phase": "小组赛",
+      "round": "Group stage",
+      "group": "H",
+      "date": "2026-06-15",
+      "localTime": "12:00 p.m. UTC-4",
+      "kickoffUtc": "2026-06-15T16:00:00.000Z",
+      "utcOffset": -4,
+      "venueId": "mercedes-benz-stadium",
+      "venueLabel": "Mercedes-Benz Stadium, Atlanta",
+      "home": {
+        "type": "team",
+        "name": "Spain"
+      },
+      "away": {
+        "type": "team",
+        "name": "Cape Verde"
+      },
+      "status": "finished",
+      "score": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "m015",
+      "matchNumber": 15,
+      "phase": "小组赛",
+      "round": "Group stage",
+      "group": "G",
+      "date": "2026-06-15",
+      "localTime": "6:00 p.m. UTC-7",
+      "kickoffUtc": "2026-06-16T01:00:00.000Z",
+      "utcOffset": -7,
+      "venueId": "sofi-stadium",
+      "venueLabel": "SoFi Stadium, Inglewood",
+      "home": {
+        "type": "team",
+        "name": "Iran"
+      },
+      "away": {
+        "type": "team",
+        "name": "New Zealand"
+      },
+      "status": "finished",
+      "score": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "m016",
+      "matchNumber": 16,
+      "phase": "小组赛",
+      "round": "Group stage",
+      "group": "G",
+      "date": "2026-06-15",
+      "localTime": "12:00 p.m. UTC-7",
+      "kickoffUtc": "2026-06-15T19:00:00.000Z",
+      "utcOffset": -7,
+      "venueId": "lumen-field",
+      "venueLabel": "Lumen Field, Seattle",
+      "home": {
+        "type": "team",
+        "name": "Belgium"
+      },
+      "away": {
+        "type": "team",
+        "name": "Egypt"
+      },
+      "status": "finished",
+      "score": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "m017",
+      "matchNumber": 17,
+      "phase": "小组赛",
+      "round": "Group stage",
+      "group": "I",
+      "date": "2026-06-16",
+      "localTime": "3:00 p.m. UTC-4",
+      "kickoffUtc": "2026-06-16T19:00:00.000Z",
+      "utcOffset": -4,
+      "venueId": "metlife-stadium",
+      "venueLabel": "MetLife Stadium, East Rutherford",
+      "home": {
+        "type": "team",
+        "name": "France"
+      },
+      "away": {
+        "type": "team",
+        "name": "Senegal"
+      },
+      "status": "finished",
+      "score": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "m018",
+      "matchNumber": 18,
+      "phase": "小组赛",
+      "round": "Group stage",
+      "group": "I",
+      "date": "2026-06-16",
+      "localTime": "6:00 p.m. UTC-4",
+      "kickoffUtc": "2026-06-16T22:00:00.000Z",
+      "utcOffset": -4,
+      "venueId": "gillette-stadium",
+      "venueLabel": "Gillette Stadium, Foxborough",
+      "home": {
+        "type": "team",
+        "name": "Iraq"
+      },
+      "away": {
+        "type": "team",
+        "name": "Norway"
+      },
+      "status": "finished",
+      "score": {
+        "home": 1,
+        "away": 4
+      }
+    },
+    {
+      "id": "m019",
+      "matchNumber": 19,
+      "phase": "小组赛",
+      "round": "Group stage",
+      "group": "J",
+      "date": "2026-06-16",
+      "localTime": "8:00 p.m. UTC-5",
+      "kickoffUtc": "2026-06-17T01:00:00.000Z",
+      "utcOffset": -5,
+      "venueId": "arrowhead-stadium",
+      "venueLabel": "Arrowhead Stadium, Kansas City",
+      "home": {
+        "type": "team",
+        "name": "Argentina"
+      },
+      "away": {
+        "type": "team",
+        "name": "Algeria"
+      },
+      "status": "finished",
+      "score": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "m020",
+      "matchNumber": 20,
+      "phase": "小组赛",
+      "round": "Group stage",
+      "group": "J",
+      "date": "2026-06-16",
+      "localTime": "9:00 p.m. UTC-7",
+      "kickoffUtc": "2026-06-17T04:00:00.000Z",
+      "utcOffset": -7,
+      "venueId": "levi-s-stadium",
+      "venueLabel": "Levi's Stadium, Santa Clara",
+      "home": {
+        "type": "team",
+        "name": "Austria"
+      },
+      "away": {
+        "type": "team",
+        "name": "Jordan"
+      },
+      "status": "finished",
+      "score": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "m021",
+      "matchNumber": 21,
+      "phase": "小组赛",
+      "round": "Group stage",
+      "group": "L",
+      "date": "2026-06-17",
+      "localTime": "7:00 p.m. UTC-4",
+      "kickoffUtc": "2026-06-17T23:00:00.000Z",
+      "utcOffset": -4,
+      "venueId": "bmo-field",
+      "venueLabel": "BMO Field, Toronto",
+      "home": {
+        "type": "team",
+        "name": "Ghana"
+      },
+      "away": {
+        "type": "team",
+        "name": "Panama"
+      },
+      "status": "finished",
+      "score": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "m022",
+      "matchNumber": 22,
+      "phase": "小组赛",
+      "round": "Group stage",
+      "group": "L",
+      "date": "2026-06-17",
+      "localTime": "3:00 p.m. UTC-5",
+      "kickoffUtc": "2026-06-17T20:00:00.000Z",
+      "utcOffset": -5,
+      "venueId": "atandt-stadium",
+      "venueLabel": "AT&T Stadium, Arlington",
+      "home": {
+        "type": "team",
+        "name": "England"
+      },
+      "away": {
+        "type": "team",
+        "name": "Croatia"
+      },
+      "status": "finished",
+      "score": {
+        "home": 4,
+        "away": 2
+      }
+    },
+    {
+      "id": "m023",
+      "matchNumber": 23,
+      "phase": "小组赛",
+      "round": "Group stage",
+      "group": "K",
+      "date": "2026-06-17",
+      "localTime": "12:00 p.m. UTC-5",
+      "kickoffUtc": "2026-06-17T17:00:00.000Z",
+      "utcOffset": -5,
+      "venueId": "nrg-stadium",
+      "venueLabel": "NRG Stadium, Houston",
+      "home": {
+        "type": "team",
+        "name": "Portugal"
+      },
+      "away": {
+        "type": "team",
+        "name": "DR Congo"
+      },
+      "status": "finished",
+      "score": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "m024",
+      "matchNumber": 24,
+      "phase": "小组赛",
+      "round": "Group stage",
+      "group": "K",
+      "date": "2026-06-17",
+      "localTime": "8:00 p.m. UTC-6",
+      "kickoffUtc": "2026-06-18T02:00:00.000Z",
+      "utcOffset": -6,
+      "venueId": "estadio-azteca",
+      "venueLabel": "Estadio Azteca, Mexico City",
+      "home": {
+        "type": "team",
+        "name": "Uzbekistan"
+      },
+      "away": {
+        "type": "team",
+        "name": "Colombia"
+      },
+      "status": "finished",
+      "score": {
+        "home": 1,
+        "away": 3
+      }
+    },
+    {
+      "id": "m025",
+      "matchNumber": 25,
+      "phase": "小组赛",
+      "round": "Group stage",
+      "group": "A",
+      "date": "2026-06-18",
+      "localTime": "12:00 p.m. UTC-4",
+      "kickoffUtc": "2026-06-18T16:00:00.000Z",
+      "utcOffset": -4,
+      "venueId": "mercedes-benz-stadium",
+      "venueLabel": "Mercedes-Benz Stadium, Atlanta",
+      "home": {
+        "type": "team",
+        "name": "Czech Republic"
+      },
+      "away": {
+        "type": "team",
+        "name": "South Africa"
+      },
+      "status": "finished",
+      "score": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "m026",
+      "matchNumber": 26,
+      "phase": "小组赛",
+      "round": "Group stage",
+      "group": "B",
+      "date": "2026-06-18",
+      "localTime": "12:00 p.m. UTC-7",
+      "kickoffUtc": "2026-06-18T19:00:00.000Z",
+      "utcOffset": -7,
+      "venueId": "sofi-stadium",
+      "venueLabel": "SoFi Stadium, Inglewood",
+      "home": {
+        "type": "team",
+        "name": "Switzerland"
+      },
+      "away": {
+        "type": "team",
+        "name": "Bosnia and Herzegovina"
+      },
+      "status": "finished",
+      "score": {
+        "home": 4,
+        "away": 1
+      }
+    },
+    {
+      "id": "m027",
+      "matchNumber": 27,
+      "phase": "小组赛",
+      "round": "Group stage",
+      "group": "B",
+      "date": "2026-06-18",
+      "localTime": "3:00 p.m. UTC-7",
+      "kickoffUtc": "2026-06-18T22:00:00.000Z",
+      "utcOffset": -7,
+      "venueId": "bc-place",
+      "venueLabel": "BC Place, Vancouver",
+      "home": {
+        "type": "team",
+        "name": "Canada"
+      },
+      "away": {
+        "type": "team",
+        "name": "Qatar"
+      },
+      "status": "finished",
+      "score": {
+        "home": 6,
+        "away": 0
+      }
+    },
+    {
+      "id": "m028",
+      "matchNumber": 28,
+      "phase": "小组赛",
+      "round": "Group stage",
+      "group": "A",
+      "date": "2026-06-18",
+      "localTime": "7:00 p.m. UTC-6",
+      "kickoffUtc": "2026-06-19T01:00:00.000Z",
+      "utcOffset": -6,
+      "venueId": "estadio-akron",
+      "venueLabel": "Estadio Akron, Zapopan",
+      "home": {
+        "type": "team",
+        "name": "Mexico"
+      },
+      "away": {
+        "type": "team",
+        "name": "South Korea"
+      },
+      "status": "finished",
+      "score": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "m029",
+      "matchNumber": 29,
+      "phase": "小组赛",
+      "round": "Group stage",
+      "group": "C",
+      "date": "2026-06-19",
+      "localTime": "8:30 p.m. UTC-4",
+      "kickoffUtc": "2026-06-20T00:30:00.000Z",
+      "utcOffset": -4,
+      "venueId": "lincoln-financial-field",
+      "venueLabel": "Lincoln Financial Field, Philadelphia",
+      "home": {
+        "type": "team",
+        "name": "Brazil"
+      },
+      "away": {
+        "type": "team",
+        "name": "Haiti"
+      },
+      "status": "finished",
+      "score": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "m030",
+      "matchNumber": 30,
+      "phase": "小组赛",
+      "round": "Group stage",
+      "group": "C",
+      "date": "2026-06-19",
+      "localTime": "6:00 p.m. UTC-4",
+      "kickoffUtc": "2026-06-19T22:00:00.000Z",
+      "utcOffset": -4,
+      "venueId": "gillette-stadium",
+      "venueLabel": "Gillette Stadium, Foxborough",
+      "home": {
+        "type": "team",
+        "name": "Scotland"
+      },
+      "away": {
+        "type": "team",
+        "name": "Morocco"
+      },
+      "status": "finished",
+      "score": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "m031",
+      "matchNumber": 31,
+      "phase": "小组赛",
+      "round": "Group stage",
+      "group": "D",
+      "date": "2026-06-19",
+      "localTime": "8:00 p.m. UTC-7",
+      "kickoffUtc": "2026-06-20T03:00:00.000Z",
+      "utcOffset": -7,
+      "venueId": "levi-s-stadium",
+      "venueLabel": "Levi's Stadium, Santa Clara",
+      "home": {
+        "type": "team",
+        "name": "Turkey"
+      },
+      "away": {
+        "type": "team",
+        "name": "Paraguay"
+      },
+      "status": "finished",
+      "score": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "m032",
+      "matchNumber": 32,
+      "phase": "小组赛",
+      "round": "Group stage",
+      "group": "D",
+      "date": "2026-06-19",
+      "localTime": "12:00 p.m. UTC-7",
+      "kickoffUtc": "2026-06-19T19:00:00.000Z",
+      "utcOffset": -7,
+      "venueId": "lumen-field",
+      "venueLabel": "Lumen Field, Seattle",
+      "home": {
+        "type": "team",
+        "name": "United States"
+      },
+      "away": {
+        "type": "team",
+        "name": "Australia"
+      },
+      "status": "finished",
+      "score": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "m033",
+      "matchNumber": 33,
+      "phase": "小组赛",
+      "round": "Group stage",
+      "group": "E",
+      "date": "2026-06-20",
+      "localTime": "4:00 p.m. UTC-4",
+      "kickoffUtc": "2026-06-20T20:00:00.000Z",
+      "utcOffset": -4,
+      "venueId": "bmo-field",
+      "venueLabel": "BMO Field, Toronto",
+      "home": {
+        "type": "team",
+        "name": "Germany"
+      },
+      "away": {
+        "type": "team",
+        "name": "Ivory Coast"
+      },
+      "status": "finished",
+      "score": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "m034",
+      "matchNumber": 34,
+      "phase": "小组赛",
+      "round": "Group stage",
+      "group": "E",
+      "date": "2026-06-20",
+      "localTime": "7:00 p.m. UTC-5",
+      "kickoffUtc": "2026-06-21T00:00:00.000Z",
+      "utcOffset": -5,
+      "venueId": "arrowhead-stadium",
+      "venueLabel": "Arrowhead Stadium, Kansas City",
+      "home": {
+        "type": "team",
+        "name": "Ecuador"
+      },
+      "away": {
+        "type": "team",
+        "name": "Curaçao"
+      },
+      "status": "finished",
+      "score": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "m035",
+      "matchNumber": 35,
+      "phase": "小组赛",
+      "round": "Group stage",
+      "group": "F",
+      "date": "2026-06-20",
+      "localTime": "12:00 p.m. UTC-5",
+      "kickoffUtc": "2026-06-20T17:00:00.000Z",
+      "utcOffset": -5,
+      "venueId": "nrg-stadium",
+      "venueLabel": "NRG Stadium, Houston",
+      "home": {
+        "type": "team",
+        "name": "Netherlands"
+      },
+      "away": {
+        "type": "team",
+        "name": "Sweden"
+      },
+      "status": "finished",
+      "score": {
+        "home": 5,
+        "away": 1
+      }
+    },
+    {
+      "id": "m036",
+      "matchNumber": 36,
+      "phase": "小组赛",
+      "round": "Group stage",
+      "group": "F",
+      "date": "2026-06-20",
+      "localTime": "10:00 p.m. UTC-6",
+      "kickoffUtc": "2026-06-21T04:00:00.000Z",
+      "utcOffset": -6,
+      "venueId": "estadio-bbva",
+      "venueLabel": "Estadio BBVA, Guadalupe",
+      "home": {
+        "type": "team",
+        "name": "Tunisia"
+      },
+      "away": {
+        "type": "team",
+        "name": "Japan"
+      },
+      "status": "finished",
+      "score": {
+        "home": 0,
+        "away": 4
+      }
+    },
+    {
+      "id": "m037",
+      "matchNumber": 37,
+      "phase": "小组赛",
+      "round": "Group stage",
+      "group": "H",
+      "date": "2026-06-21",
+      "localTime": "6:00 p.m. UTC-4",
+      "kickoffUtc": "2026-06-21T22:00:00.000Z",
+      "utcOffset": -4,
+      "venueId": "hard-rock-stadium",
+      "venueLabel": "Hard Rock Stadium, Miami Gardens",
+      "home": {
+        "type": "team",
+        "name": "Uruguay"
+      },
+      "away": {
+        "type": "team",
+        "name": "Cape Verde"
+      },
+      "status": "finished",
+      "score": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "m038",
+      "matchNumber": 38,
+      "phase": "小组赛",
+      "round": "Group stage",
+      "group": "H",
+      "date": "2026-06-21",
+      "localTime": "12:00 p.m. UTC-4",
+      "kickoffUtc": "2026-06-21T16:00:00.000Z",
+      "utcOffset": -4,
+      "venueId": "mercedes-benz-stadium",
+      "venueLabel": "Mercedes-Benz Stadium, Atlanta",
+      "home": {
+        "type": "team",
+        "name": "Spain"
+      },
+      "away": {
+        "type": "team",
+        "name": "Saudi Arabia"
+      },
+      "status": "finished",
+      "score": {
+        "home": 4,
+        "away": 0
+      }
+    },
+    {
+      "id": "m039",
+      "matchNumber": 39,
+      "phase": "小组赛",
+      "round": "Group stage",
+      "group": "G",
+      "date": "2026-06-21",
+      "localTime": "12:00 p.m. UTC-7",
+      "kickoffUtc": "2026-06-21T19:00:00.000Z",
+      "utcOffset": -7,
+      "venueId": "sofi-stadium",
+      "venueLabel": "SoFi Stadium, Inglewood",
+      "home": {
+        "type": "team",
+        "name": "Belgium"
+      },
+      "away": {
+        "type": "team",
+        "name": "Iran"
+      },
+      "status": "finished",
+      "score": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "m040",
+      "matchNumber": 40,
+      "phase": "小组赛",
+      "round": "Group stage",
+      "group": "G",
+      "date": "2026-06-21",
+      "localTime": "6:00 p.m. UTC-7",
+      "kickoffUtc": "2026-06-22T01:00:00.000Z",
+      "utcOffset": -7,
+      "venueId": "bc-place",
+      "venueLabel": "BC Place, Vancouver",
+      "home": {
+        "type": "team",
+        "name": "New Zealand"
+      },
+      "away": {
+        "type": "team",
+        "name": "Egypt"
+      },
+      "status": "finished",
+      "score": {
+        "home": 1,
+        "away": 3
+      }
+    },
+    {
+      "id": "m041",
+      "matchNumber": 41,
+      "phase": "小组赛",
+      "round": "Group stage",
+      "group": "I",
+      "date": "2026-06-22",
+      "localTime": "8:00 p.m. UTC-4",
+      "kickoffUtc": "2026-06-23T00:00:00.000Z",
+      "utcOffset": -4,
+      "venueId": "metlife-stadium",
+      "venueLabel": "MetLife Stadium, East Rutherford",
+      "home": {
+        "type": "team",
+        "name": "Norway"
+      },
+      "away": {
+        "type": "team",
+        "name": "Senegal"
+      },
+      "status": "scheduled",
+      "score": null
+    },
+    {
+      "id": "m042",
+      "matchNumber": 42,
+      "phase": "小组赛",
+      "round": "Group stage",
+      "group": "I",
+      "date": "2026-06-22",
+      "localTime": "5:00 p.m. UTC-4",
+      "kickoffUtc": "2026-06-22T21:00:00.000Z",
+      "utcOffset": -4,
+      "venueId": "lincoln-financial-field",
+      "venueLabel": "Lincoln Financial Field, Philadelphia",
+      "home": {
+        "type": "team",
+        "name": "France"
+      },
+      "away": {
+        "type": "team",
+        "name": "Iraq"
+      },
+      "status": "scheduled",
+      "score": null
+    },
+    {
+      "id": "m043",
+      "matchNumber": 43,
+      "phase": "小组赛",
+      "round": "Group stage",
+      "group": "J",
+      "date": "2026-06-22",
+      "localTime": "12:00 p.m. UTC-5",
+      "kickoffUtc": "2026-06-22T17:00:00.000Z",
+      "utcOffset": -5,
+      "venueId": "atandt-stadium",
+      "venueLabel": "AT&T Stadium, Arlington",
+      "home": {
+        "type": "team",
+        "name": "Argentina"
+      },
+      "away": {
+        "type": "team",
+        "name": "Austria"
+      },
+      "status": "scheduled",
+      "score": null
+    },
+    {
+      "id": "m044",
+      "matchNumber": 44,
+      "phase": "小组赛",
+      "round": "Group stage",
+      "group": "J",
+      "date": "2026-06-22",
+      "localTime": "8:00 p.m. UTC-7",
+      "kickoffUtc": "2026-06-23T03:00:00.000Z",
+      "utcOffset": -7,
+      "venueId": "levi-s-stadium",
+      "venueLabel": "Levi's Stadium, Santa Clara",
+      "home": {
+        "type": "team",
+        "name": "Jordan"
+      },
+      "away": {
+        "type": "team",
+        "name": "Algeria"
+      },
+      "status": "scheduled",
+      "score": null
+    },
+    {
+      "id": "m045",
+      "matchNumber": 45,
+      "phase": "小组赛",
+      "round": "Group stage",
+      "group": "L",
+      "date": "2026-06-23",
+      "localTime": "4:00 p.m. UTC-4",
+      "kickoffUtc": "2026-06-23T20:00:00.000Z",
+      "utcOffset": -4,
+      "venueId": "gillette-stadium",
+      "venueLabel": "Gillette Stadium, Foxborough",
+      "home": {
+        "type": "team",
+        "name": "England"
+      },
+      "away": {
+        "type": "team",
+        "name": "Ghana"
+      },
+      "status": "scheduled",
+      "score": null
+    },
+    {
+      "id": "m046",
+      "matchNumber": 46,
+      "phase": "小组赛",
+      "round": "Group stage",
+      "group": "L",
+      "date": "2026-06-23",
+      "localTime": "7:00 p.m. UTC-4",
+      "kickoffUtc": "2026-06-23T23:00:00.000Z",
+      "utcOffset": -4,
+      "venueId": "bmo-field",
+      "venueLabel": "BMO Field, Toronto",
+      "home": {
+        "type": "team",
+        "name": "Panama"
+      },
+      "away": {
+        "type": "team",
+        "name": "Croatia"
+      },
+      "status": "scheduled",
+      "score": null
+    },
+    {
+      "id": "m047",
+      "matchNumber": 47,
+      "phase": "小组赛",
+      "round": "Group stage",
+      "group": "K",
+      "date": "2026-06-23",
+      "localTime": "12:00 p.m. UTC-5",
+      "kickoffUtc": "2026-06-23T17:00:00.000Z",
+      "utcOffset": -5,
+      "venueId": "nrg-stadium",
+      "venueLabel": "NRG Stadium, Houston",
+      "home": {
+        "type": "team",
+        "name": "Portugal"
+      },
+      "away": {
+        "type": "team",
+        "name": "Uzbekistan"
+      },
+      "status": "scheduled",
+      "score": null
+    },
+    {
+      "id": "m048",
+      "matchNumber": 48,
+      "phase": "小组赛",
+      "round": "Group stage",
+      "group": "K",
+      "date": "2026-06-23",
+      "localTime": "8:00 p.m. UTC-6",
+      "kickoffUtc": "2026-06-24T02:00:00.000Z",
+      "utcOffset": -6,
+      "venueId": "estadio-akron",
+      "venueLabel": "Estadio Akron, Zapopan",
+      "home": {
+        "type": "team",
+        "name": "Colombia"
+      },
+      "away": {
+        "type": "team",
+        "name": "DR Congo"
+      },
+      "status": "scheduled",
+      "score": null
+    },
+    {
+      "id": "m049",
+      "matchNumber": 49,
+      "phase": "小组赛",
+      "round": "Group stage",
+      "group": "C",
+      "date": "2026-06-24",
+      "localTime": "6:00 p.m. UTC-4",
+      "kickoffUtc": "2026-06-24T22:00:00.000Z",
+      "utcOffset": -4,
+      "venueId": "hard-rock-stadium",
+      "venueLabel": "Hard Rock Stadium, Miami Gardens",
+      "home": {
+        "type": "team",
+        "name": "Scotland"
+      },
+      "away": {
+        "type": "team",
+        "name": "Brazil"
+      },
+      "status": "scheduled",
+      "score": null
+    },
+    {
+      "id": "m050",
+      "matchNumber": 50,
+      "phase": "小组赛",
+      "round": "Group stage",
+      "group": "C",
+      "date": "2026-06-24",
+      "localTime": "6:00 p.m. UTC-4",
+      "kickoffUtc": "2026-06-24T22:00:00.000Z",
+      "utcOffset": -4,
+      "venueId": "mercedes-benz-stadium",
+      "venueLabel": "Mercedes-Benz Stadium, Atlanta",
+      "home": {
+        "type": "team",
+        "name": "Morocco"
+      },
+      "away": {
+        "type": "team",
+        "name": "Haiti"
+      },
+      "status": "scheduled",
+      "score": null
+    },
+    {
+      "id": "m051",
+      "matchNumber": 51,
+      "phase": "小组赛",
+      "round": "Group stage",
+      "group": "B",
+      "date": "2026-06-24",
+      "localTime": "12:00 p.m. UTC-7",
+      "kickoffUtc": "2026-06-24T19:00:00.000Z",
+      "utcOffset": -7,
+      "venueId": "bc-place",
+      "venueLabel": "BC Place, Vancouver",
+      "home": {
+        "type": "team",
+        "name": "Switzerland"
+      },
+      "away": {
+        "type": "team",
+        "name": "Canada"
+      },
+      "status": "scheduled",
+      "score": null
+    },
+    {
+      "id": "m052",
+      "matchNumber": 52,
+      "phase": "小组赛",
+      "round": "Group stage",
+      "group": "B",
+      "date": "2026-06-24",
+      "localTime": "12:00 p.m. UTC-7",
+      "kickoffUtc": "2026-06-24T19:00:00.000Z",
+      "utcOffset": -7,
+      "venueId": "lumen-field",
+      "venueLabel": "Lumen Field, Seattle",
+      "home": {
+        "type": "team",
+        "name": "Bosnia and Herzegovina"
+      },
+      "away": {
+        "type": "team",
+        "name": "Qatar"
+      },
+      "status": "scheduled",
+      "score": null
+    },
+    {
+      "id": "m053",
+      "matchNumber": 53,
+      "phase": "小组赛",
+      "round": "Group stage",
+      "group": "A",
+      "date": "2026-06-24",
+      "localTime": "7:00 p.m. UTC-6",
+      "kickoffUtc": "2026-06-25T01:00:00.000Z",
+      "utcOffset": -6,
+      "venueId": "estadio-azteca",
+      "venueLabel": "Estadio Azteca, Mexico City",
+      "home": {
+        "type": "team",
+        "name": "Czech Republic"
+      },
+      "away": {
+        "type": "team",
+        "name": "Mexico"
+      },
+      "status": "scheduled",
+      "score": null
+    },
+    {
+      "id": "m054",
+      "matchNumber": 54,
+      "phase": "小组赛",
+      "round": "Group stage",
+      "group": "A",
+      "date": "2026-06-24",
+      "localTime": "7:00 p.m. UTC-6",
+      "kickoffUtc": "2026-06-25T01:00:00.000Z",
+      "utcOffset": -6,
+      "venueId": "estadio-bbva",
+      "venueLabel": "Estadio BBVA, Guadalupe",
+      "home": {
+        "type": "team",
+        "name": "South Africa"
+      },
+      "away": {
+        "type": "team",
+        "name": "South Korea"
+      },
+      "status": "scheduled",
+      "score": null
+    },
+    {
+      "id": "m055",
+      "matchNumber": 55,
+      "phase": "小组赛",
+      "round": "Group stage",
+      "group": "E",
+      "date": "2026-06-25",
+      "localTime": "4:00 p.m. UTC-4",
+      "kickoffUtc": "2026-06-25T20:00:00.000Z",
+      "utcOffset": -4,
+      "venueId": "lincoln-financial-field",
+      "venueLabel": "Lincoln Financial Field, Philadelphia",
+      "home": {
+        "type": "team",
+        "name": "Curaçao"
+      },
+      "away": {
+        "type": "team",
+        "name": "Ivory Coast"
+      },
+      "status": "scheduled",
+      "score": null
+    },
+    {
+      "id": "m056",
+      "matchNumber": 56,
+      "phase": "小组赛",
+      "round": "Group stage",
+      "group": "E",
+      "date": "2026-06-25",
+      "localTime": "4:00 p.m. UTC-4",
+      "kickoffUtc": "2026-06-25T20:00:00.000Z",
+      "utcOffset": -4,
+      "venueId": "metlife-stadium",
+      "venueLabel": "MetLife Stadium, East Rutherford",
+      "home": {
+        "type": "team",
+        "name": "Ecuador"
+      },
+      "away": {
+        "type": "team",
+        "name": "Germany"
+      },
+      "status": "scheduled",
+      "score": null
+    },
+    {
+      "id": "m057",
+      "matchNumber": 57,
+      "phase": "小组赛",
+      "round": "Group stage",
+      "group": "F",
+      "date": "2026-06-25",
+      "localTime": "6:00 p.m. UTC-5",
+      "kickoffUtc": "2026-06-25T23:00:00.000Z",
+      "utcOffset": -5,
+      "venueId": "atandt-stadium",
+      "venueLabel": "AT&T Stadium, Arlington",
+      "home": {
+        "type": "team",
+        "name": "Japan"
+      },
+      "away": {
+        "type": "team",
+        "name": "Sweden"
+      },
+      "status": "scheduled",
+      "score": null
+    },
+    {
+      "id": "m058",
+      "matchNumber": 58,
+      "phase": "小组赛",
+      "round": "Group stage",
+      "group": "F",
+      "date": "2026-06-25",
+      "localTime": "6:00 p.m. UTC-5",
+      "kickoffUtc": "2026-06-25T23:00:00.000Z",
+      "utcOffset": -5,
+      "venueId": "arrowhead-stadium",
+      "venueLabel": "Arrowhead Stadium, Kansas City",
+      "home": {
+        "type": "team",
+        "name": "Tunisia"
+      },
+      "away": {
+        "type": "team",
+        "name": "Netherlands"
+      },
+      "status": "scheduled",
+      "score": null
+    },
+    {
+      "id": "m059",
+      "matchNumber": 59,
+      "phase": "小组赛",
+      "round": "Group stage",
+      "group": "D",
+      "date": "2026-06-25",
+      "localTime": "7:00 p.m. UTC-7",
+      "kickoffUtc": "2026-06-26T02:00:00.000Z",
+      "utcOffset": -7,
+      "venueId": "sofi-stadium",
+      "venueLabel": "SoFi Stadium, Inglewood",
+      "home": {
+        "type": "team",
+        "name": "Turkey"
+      },
+      "away": {
+        "type": "team",
+        "name": "United States"
+      },
+      "status": "scheduled",
+      "score": null
+    },
+    {
+      "id": "m060",
+      "matchNumber": 60,
+      "phase": "小组赛",
+      "round": "Group stage",
+      "group": "D",
+      "date": "2026-06-25",
+      "localTime": "7:00 p.m. UTC-7",
+      "kickoffUtc": "2026-06-26T02:00:00.000Z",
+      "utcOffset": -7,
+      "venueId": "levi-s-stadium",
+      "venueLabel": "Levi's Stadium, Santa Clara",
+      "home": {
+        "type": "team",
+        "name": "Paraguay"
+      },
+      "away": {
+        "type": "team",
+        "name": "Australia"
+      },
+      "status": "scheduled",
+      "score": null
+    },
+    {
+      "id": "m061",
+      "matchNumber": 61,
+      "phase": "小组赛",
+      "round": "Group stage",
+      "group": "I",
+      "date": "2026-06-26",
+      "localTime": "3:00 p.m. UTC-4",
+      "kickoffUtc": "2026-06-26T19:00:00.000Z",
+      "utcOffset": -4,
+      "venueId": "gillette-stadium",
+      "venueLabel": "Gillette Stadium, Foxborough",
+      "home": {
+        "type": "team",
+        "name": "Norway"
+      },
+      "away": {
+        "type": "team",
+        "name": "France"
+      },
+      "status": "scheduled",
+      "score": null
+    },
+    {
+      "id": "m062",
+      "matchNumber": 62,
+      "phase": "小组赛",
+      "round": "Group stage",
+      "group": "I",
+      "date": "2026-06-26",
+      "localTime": "3:00 p.m. UTC-4",
+      "kickoffUtc": "2026-06-26T19:00:00.000Z",
+      "utcOffset": -4,
+      "venueId": "bmo-field",
+      "venueLabel": "BMO Field, Toronto",
+      "home": {
+        "type": "team",
+        "name": "Senegal"
+      },
+      "away": {
+        "type": "team",
+        "name": "Iraq"
+      },
+      "status": "scheduled",
+      "score": null
+    },
+    {
+      "id": "m063",
+      "matchNumber": 63,
+      "phase": "小组赛",
+      "round": "Group stage",
+      "group": "G",
+      "date": "2026-06-26",
+      "localTime": "8:00 p.m. UTC-7",
+      "kickoffUtc": "2026-06-27T03:00:00.000Z",
+      "utcOffset": -7,
+      "venueId": "lumen-field",
+      "venueLabel": "Lumen Field, Seattle",
+      "home": {
+        "type": "team",
+        "name": "Egypt"
+      },
+      "away": {
+        "type": "team",
+        "name": "Iran"
+      },
+      "status": "scheduled",
+      "score": null
+    },
+    {
+      "id": "m064",
+      "matchNumber": 64,
+      "phase": "小组赛",
+      "round": "Group stage",
+      "group": "G",
+      "date": "2026-06-26",
+      "localTime": "8:00 p.m. UTC-7",
+      "kickoffUtc": "2026-06-27T03:00:00.000Z",
+      "utcOffset": -7,
+      "venueId": "bc-place",
+      "venueLabel": "BC Place, Vancouver",
+      "home": {
+        "type": "team",
+        "name": "New Zealand"
+      },
+      "away": {
+        "type": "team",
+        "name": "Belgium"
+      },
+      "status": "scheduled",
+      "score": null
+    },
+    {
+      "id": "m065",
+      "matchNumber": 65,
+      "phase": "小组赛",
+      "round": "Group stage",
+      "group": "H",
+      "date": "2026-06-26",
+      "localTime": "7:00 p.m. UTC-5",
+      "kickoffUtc": "2026-06-27T00:00:00.000Z",
+      "utcOffset": -5,
+      "venueId": "nrg-stadium",
+      "venueLabel": "NRG Stadium, Houston",
+      "home": {
+        "type": "team",
+        "name": "Cape Verde"
+      },
+      "away": {
+        "type": "team",
+        "name": "Saudi Arabia"
+      },
+      "status": "scheduled",
+      "score": null
+    },
+    {
+      "id": "m066",
+      "matchNumber": 66,
+      "phase": "小组赛",
+      "round": "Group stage",
+      "group": "H",
+      "date": "2026-06-26",
+      "localTime": "6:00 p.m. UTC-6",
+      "kickoffUtc": "2026-06-27T00:00:00.000Z",
+      "utcOffset": -6,
+      "venueId": "estadio-akron",
+      "venueLabel": "Estadio Akron, Zapopan",
+      "home": {
+        "type": "team",
+        "name": "Uruguay"
+      },
+      "away": {
+        "type": "team",
+        "name": "Spain"
+      },
+      "status": "scheduled",
+      "score": null
+    },
+    {
+      "id": "m067",
+      "matchNumber": 67,
+      "phase": "小组赛",
+      "round": "Group stage",
+      "group": "L",
+      "date": "2026-06-27",
+      "localTime": "5:00 p.m. UTC-4",
+      "kickoffUtc": "2026-06-27T21:00:00.000Z",
+      "utcOffset": -4,
+      "venueId": "metlife-stadium",
+      "venueLabel": "MetLife Stadium, East Rutherford",
+      "home": {
+        "type": "team",
+        "name": "Panama"
+      },
+      "away": {
+        "type": "team",
+        "name": "England"
+      },
+      "status": "scheduled",
+      "score": null
+    },
+    {
+      "id": "m068",
+      "matchNumber": 68,
+      "phase": "小组赛",
+      "round": "Group stage",
+      "group": "L",
+      "date": "2026-06-27",
+      "localTime": "5:00 p.m. UTC-4",
+      "kickoffUtc": "2026-06-27T21:00:00.000Z",
+      "utcOffset": -4,
+      "venueId": "lincoln-financial-field",
+      "venueLabel": "Lincoln Financial Field, Philadelphia",
+      "home": {
+        "type": "team",
+        "name": "Croatia"
+      },
+      "away": {
+        "type": "team",
+        "name": "Ghana"
+      },
+      "status": "scheduled",
+      "score": null
+    },
+    {
+      "id": "m069",
+      "matchNumber": 69,
+      "phase": "小组赛",
+      "round": "Group stage",
+      "group": "J",
+      "date": "2026-06-27",
+      "localTime": "9:00 p.m. UTC-5",
+      "kickoffUtc": "2026-06-28T02:00:00.000Z",
+      "utcOffset": -5,
+      "venueId": "arrowhead-stadium",
+      "venueLabel": "Arrowhead Stadium, Kansas City",
+      "home": {
+        "type": "team",
+        "name": "Algeria"
+      },
+      "away": {
+        "type": "team",
+        "name": "Austria"
+      },
+      "status": "scheduled",
+      "score": null
+    },
+    {
+      "id": "m070",
+      "matchNumber": 70,
+      "phase": "小组赛",
+      "round": "Group stage",
+      "group": "J",
+      "date": "2026-06-27",
+      "localTime": "9:00 p.m. UTC-5",
+      "kickoffUtc": "2026-06-28T02:00:00.000Z",
+      "utcOffset": -5,
+      "venueId": "atandt-stadium",
+      "venueLabel": "AT&T Stadium, Arlington",
+      "home": {
+        "type": "team",
+        "name": "Jordan"
+      },
+      "away": {
+        "type": "team",
+        "name": "Argentina"
+      },
+      "status": "scheduled",
+      "score": null
+    },
+    {
+      "id": "m071",
+      "matchNumber": 71,
+      "phase": "小组赛",
+      "round": "Group stage",
+      "group": "K",
+      "date": "2026-06-27",
+      "localTime": "7:30 p.m. UTC-4",
+      "kickoffUtc": "2026-06-27T23:30:00.000Z",
+      "utcOffset": -4,
+      "venueId": "hard-rock-stadium",
+      "venueLabel": "Hard Rock Stadium, Miami Gardens",
+      "home": {
+        "type": "team",
+        "name": "Colombia"
+      },
+      "away": {
+        "type": "team",
+        "name": "Portugal"
+      },
+      "status": "scheduled",
+      "score": null
+    },
+    {
+      "id": "m072",
+      "matchNumber": 72,
+      "phase": "小组赛",
+      "round": "Group stage",
+      "group": "K",
+      "date": "2026-06-27",
+      "localTime": "7:30 p.m. UTC-4",
+      "kickoffUtc": "2026-06-27T23:30:00.000Z",
+      "utcOffset": -4,
+      "venueId": "mercedes-benz-stadium",
+      "venueLabel": "Mercedes-Benz Stadium, Atlanta",
+      "home": {
+        "type": "team",
+        "name": "DR Congo"
+      },
+      "away": {
+        "type": "team",
+        "name": "Uzbekistan"
+      },
+      "status": "scheduled",
+      "score": null
+    },
+    {
+      "id": "m073",
+      "matchNumber": 73,
+      "phase": "32强",
+      "round": "Round of 32",
+      "group": null,
+      "date": "2026-06-28",
+      "localTime": "12:00 p.m. UTC-7",
+      "kickoffUtc": "2026-06-28T19:00:00.000Z",
+      "utcOffset": -7,
+      "venueId": "sofi-stadium",
+      "venueLabel": "SoFi Stadium, Inglewood",
+      "home": {
+        "type": "placeholder",
+        "label": "Runner-up Group A",
+        "zhLabel": "小组第2 A"
+      },
+      "away": {
+        "type": "placeholder",
+        "label": "Runner-up Group B",
+        "zhLabel": "小组第2 B"
+      },
+      "status": "scheduled",
+      "score": null
+    },
+    {
+      "id": "m074",
+      "matchNumber": 74,
+      "phase": "32强",
+      "round": "Round of 32",
+      "group": null,
+      "date": "2026-06-29",
+      "localTime": "4:30 p.m. UTC-4",
+      "kickoffUtc": "2026-06-29T20:30:00.000Z",
+      "utcOffset": -4,
+      "venueId": "gillette-stadium",
+      "venueLabel": "Gillette Stadium, Foxborough",
+      "home": {
+        "type": "team",
+        "name": "Germany"
+      },
+      "away": {
+        "type": "placeholder",
+        "label": "3rd Group A/B/C/D/F",
+        "zhLabel": "最佳第三名 A/B/C/D/F"
+      },
+      "status": "scheduled",
+      "score": null
+    },
+    {
+      "id": "m075",
+      "matchNumber": 75,
+      "phase": "32强",
+      "round": "Round of 32",
+      "group": null,
+      "date": "2026-06-29",
+      "localTime": "7:00 p.m. UTC-6",
+      "kickoffUtc": "2026-06-30T01:00:00.000Z",
+      "utcOffset": -6,
+      "venueId": "estadio-bbva",
+      "venueLabel": "Estadio BBVA, Guadalupe",
+      "home": {
+        "type": "placeholder",
+        "label": "Winner Group F",
+        "zhLabel": "小组第1 F"
+      },
+      "away": {
+        "type": "placeholder",
+        "label": "Runner-up Group C",
+        "zhLabel": "小组第2 C"
+      },
+      "status": "scheduled",
+      "score": null
+    },
+    {
+      "id": "m076",
+      "matchNumber": 76,
+      "phase": "32强",
+      "round": "Round of 32",
+      "group": null,
+      "date": "2026-06-29",
+      "localTime": "12:00 p.m. UTC-5",
+      "kickoffUtc": "2026-06-29T17:00:00.000Z",
+      "utcOffset": -5,
+      "venueId": "nrg-stadium",
+      "venueLabel": "NRG Stadium, Houston",
+      "home": {
+        "type": "placeholder",
+        "label": "Winner Group C",
+        "zhLabel": "小组第1 C"
+      },
+      "away": {
+        "type": "placeholder",
+        "label": "Runner-up Group F",
+        "zhLabel": "小组第2 F"
+      },
+      "status": "scheduled",
+      "score": null
+    },
+    {
+      "id": "m077",
+      "matchNumber": 77,
+      "phase": "32强",
+      "round": "Round of 32",
+      "group": null,
+      "date": "2026-06-30",
+      "localTime": "5:00 p.m. UTC-4",
+      "kickoffUtc": "2026-06-30T21:00:00.000Z",
+      "utcOffset": -4,
+      "venueId": "metlife-stadium",
+      "venueLabel": "MetLife Stadium, East Rutherford",
+      "home": {
+        "type": "placeholder",
+        "label": "Winner Group I",
+        "zhLabel": "小组第1 I"
+      },
+      "away": {
+        "type": "placeholder",
+        "label": "3rd Group C/D/F/G/H",
+        "zhLabel": "最佳第三名 C/D/F/G/H"
+      },
+      "status": "scheduled",
+      "score": null
+    },
+    {
+      "id": "m078",
+      "matchNumber": 78,
+      "phase": "32强",
+      "round": "Round of 32",
+      "group": null,
+      "date": "2026-06-30",
+      "localTime": "12:00 p.m. UTC-5",
+      "kickoffUtc": "2026-06-30T17:00:00.000Z",
+      "utcOffset": -5,
+      "venueId": "atandt-stadium",
+      "venueLabel": "AT&T Stadium, Arlington",
+      "home": {
+        "type": "placeholder",
+        "label": "Runner-up Group E",
+        "zhLabel": "小组第2 E"
+      },
+      "away": {
+        "type": "placeholder",
+        "label": "Runner-up Group I",
+        "zhLabel": "小组第2 I"
+      },
+      "status": "scheduled",
+      "score": null
+    },
+    {
+      "id": "m079",
+      "matchNumber": 79,
+      "phase": "32强",
+      "round": "Round of 32",
+      "group": null,
+      "date": "2026-06-30",
+      "localTime": "7:00 p.m. UTC-6",
+      "kickoffUtc": "2026-07-01T01:00:00.000Z",
+      "utcOffset": -6,
+      "venueId": "estadio-azteca",
+      "venueLabel": "Estadio Azteca, Mexico City",
+      "home": {
+        "type": "team",
+        "name": "Mexico"
+      },
+      "away": {
+        "type": "placeholder",
+        "label": "3rd Group C/E/F/H/I",
+        "zhLabel": "最佳第三名 C/E/F/H/I"
+      },
+      "status": "scheduled",
+      "score": null
+    },
+    {
+      "id": "m080",
+      "matchNumber": 80,
+      "phase": "32强",
+      "round": "Round of 32",
+      "group": null,
+      "date": "2026-07-01",
+      "localTime": "12:00 p.m. UTC-4",
+      "kickoffUtc": "2026-07-01T16:00:00.000Z",
+      "utcOffset": -4,
+      "venueId": "mercedes-benz-stadium",
+      "venueLabel": "Mercedes-Benz Stadium, Atlanta",
+      "home": {
+        "type": "placeholder",
+        "label": "Winner Group L",
+        "zhLabel": "小组第1 L"
+      },
+      "away": {
+        "type": "placeholder",
+        "label": "3rd Group E/H/I/J/K",
+        "zhLabel": "最佳第三名 E/H/I/J/K"
+      },
+      "status": "scheduled",
+      "score": null
+    },
+    {
+      "id": "m081",
+      "matchNumber": 81,
+      "phase": "32强",
+      "round": "Round of 32",
+      "group": null,
+      "date": "2026-07-01",
+      "localTime": "5:00 p.m. UTC-7",
+      "kickoffUtc": "2026-07-02T00:00:00.000Z",
+      "utcOffset": -7,
+      "venueId": "levi-s-stadium",
+      "venueLabel": "Levi's Stadium, Santa Clara",
+      "home": {
+        "type": "team",
+        "name": "United States"
+      },
+      "away": {
+        "type": "placeholder",
+        "label": "3rd Group B/E/F/I/J",
+        "zhLabel": "最佳第三名 B/E/F/I/J"
+      },
+      "status": "scheduled",
+      "score": null
+    },
+    {
+      "id": "m082",
+      "matchNumber": 82,
+      "phase": "32强",
+      "round": "Round of 32",
+      "group": null,
+      "date": "2026-07-01",
+      "localTime": "1:00 p.m. UTC-7",
+      "kickoffUtc": "2026-07-01T20:00:00.000Z",
+      "utcOffset": -7,
+      "venueId": "lumen-field",
+      "venueLabel": "Lumen Field, Seattle",
+      "home": {
+        "type": "placeholder",
+        "label": "Winner Group G",
+        "zhLabel": "小组第1 G"
+      },
+      "away": {
+        "type": "placeholder",
+        "label": "3rd Group A/E/H/I/J",
+        "zhLabel": "最佳第三名 A/E/H/I/J"
+      },
+      "status": "scheduled",
+      "score": null
+    },
+    {
+      "id": "m083",
+      "matchNumber": 83,
+      "phase": "32强",
+      "round": "Round of 32",
+      "group": null,
+      "date": "2026-07-02",
+      "localTime": "7:00 p.m. UTC-4",
+      "kickoffUtc": "2026-07-02T23:00:00.000Z",
+      "utcOffset": -4,
+      "venueId": "bmo-field",
+      "venueLabel": "BMO Field, Toronto",
+      "home": {
+        "type": "placeholder",
+        "label": "Runner-up Group K",
+        "zhLabel": "小组第2 K"
+      },
+      "away": {
+        "type": "placeholder",
+        "label": "Runner-up Group L",
+        "zhLabel": "小组第2 L"
+      },
+      "status": "scheduled",
+      "score": null
+    },
+    {
+      "id": "m084",
+      "matchNumber": 84,
+      "phase": "32强",
+      "round": "Round of 32",
+      "group": null,
+      "date": "2026-07-02",
+      "localTime": "12:00 p.m. UTC-7",
+      "kickoffUtc": "2026-07-02T19:00:00.000Z",
+      "utcOffset": -7,
+      "venueId": "sofi-stadium",
+      "venueLabel": "SoFi Stadium, Inglewood",
+      "home": {
+        "type": "placeholder",
+        "label": "Winner Group H",
+        "zhLabel": "小组第1 H"
+      },
+      "away": {
+        "type": "placeholder",
+        "label": "Runner-up Group J",
+        "zhLabel": "小组第2 J"
+      },
+      "status": "scheduled",
+      "score": null
+    },
+    {
+      "id": "m085",
+      "matchNumber": 85,
+      "phase": "32强",
+      "round": "Round of 32",
+      "group": null,
+      "date": "2026-07-02",
+      "localTime": "8:00 p.m. UTC-7",
+      "kickoffUtc": "2026-07-03T03:00:00.000Z",
+      "utcOffset": -7,
+      "venueId": "bc-place",
+      "venueLabel": "BC Place, Vancouver",
+      "home": {
+        "type": "placeholder",
+        "label": "Winner Group B",
+        "zhLabel": "小组第1 B"
+      },
+      "away": {
+        "type": "placeholder",
+        "label": "3rd Group E/F/G/I/J",
+        "zhLabel": "最佳第三名 E/F/G/I/J"
+      },
+      "status": "scheduled",
+      "score": null
+    },
+    {
+      "id": "m086",
+      "matchNumber": 86,
+      "phase": "32强",
+      "round": "Round of 32",
+      "group": null,
+      "date": "2026-07-03",
+      "localTime": "6:00 p.m. UTC-4",
+      "kickoffUtc": "2026-07-03T22:00:00.000Z",
+      "utcOffset": -4,
+      "venueId": "hard-rock-stadium",
+      "venueLabel": "Hard Rock Stadium, Miami Gardens",
+      "home": {
+        "type": "placeholder",
+        "label": "Winner Group J",
+        "zhLabel": "小组第1 J"
+      },
+      "away": {
+        "type": "placeholder",
+        "label": "Runner-up Group H",
+        "zhLabel": "小组第2 H"
+      },
+      "status": "scheduled",
+      "score": null
+    },
+    {
+      "id": "m087",
+      "matchNumber": 87,
+      "phase": "32强",
+      "round": "Round of 32",
+      "group": null,
+      "date": "2026-07-03",
+      "localTime": "8:30 p.m. UTC-5",
+      "kickoffUtc": "2026-07-04T01:30:00.000Z",
+      "utcOffset": -5,
+      "venueId": "arrowhead-stadium",
+      "venueLabel": "Arrowhead Stadium, Kansas City",
+      "home": {
+        "type": "placeholder",
+        "label": "Winner Group K",
+        "zhLabel": "小组第1 K"
+      },
+      "away": {
+        "type": "placeholder",
+        "label": "3rd Group D/E/I/J/L",
+        "zhLabel": "最佳第三名 D/E/I/J/L"
+      },
+      "status": "scheduled",
+      "score": null
+    },
+    {
+      "id": "m088",
+      "matchNumber": 88,
+      "phase": "32强",
+      "round": "Round of 32",
+      "group": null,
+      "date": "2026-07-03",
+      "localTime": "1:00 p.m. UTC-5",
+      "kickoffUtc": "2026-07-03T18:00:00.000Z",
+      "utcOffset": -5,
+      "venueId": "atandt-stadium",
+      "venueLabel": "AT&T Stadium, Arlington",
+      "home": {
+        "type": "placeholder",
+        "label": "Runner-up Group D",
+        "zhLabel": "小组第2 D"
+      },
+      "away": {
+        "type": "placeholder",
+        "label": "Runner-up Group G",
+        "zhLabel": "小组第2 G"
+      },
+      "status": "scheduled",
+      "score": null
+    },
+    {
+      "id": "m089",
+      "matchNumber": 89,
+      "phase": "16强",
+      "round": "Round of 16",
+      "group": null,
+      "date": "2026-07-04",
+      "localTime": "5:00 p.m. UTC-4",
+      "kickoffUtc": "2026-07-04T21:00:00.000Z",
+      "utcOffset": -4,
+      "venueId": "lincoln-financial-field",
+      "venueLabel": "Lincoln Financial Field, Philadelphia",
+      "home": {
+        "type": "placeholder",
+        "label": "Winner Match 74",
+        "zhLabel": "胜者 比赛 74"
+      },
+      "away": {
+        "type": "placeholder",
+        "label": "Winner Match 77",
+        "zhLabel": "胜者 比赛 77"
+      },
+      "status": "scheduled",
+      "score": null
+    },
+    {
+      "id": "m090",
+      "matchNumber": 90,
+      "phase": "16强",
+      "round": "Round of 16",
+      "group": null,
+      "date": "2026-07-04",
+      "localTime": "12:00 p.m. UTC-5",
+      "kickoffUtc": "2026-07-04T17:00:00.000Z",
+      "utcOffset": -5,
+      "venueId": "nrg-stadium",
+      "venueLabel": "NRG Stadium, Houston",
+      "home": {
+        "type": "placeholder",
+        "label": "Winner Match 73",
+        "zhLabel": "胜者 比赛 73"
+      },
+      "away": {
+        "type": "placeholder",
+        "label": "Winner Match 75",
+        "zhLabel": "胜者 比赛 75"
+      },
+      "status": "scheduled",
+      "score": null
+    },
+    {
+      "id": "m091",
+      "matchNumber": 91,
+      "phase": "16强",
+      "round": "Round of 16",
+      "group": null,
+      "date": "2026-07-05",
+      "localTime": "4:00 p.m. UTC-4",
+      "kickoffUtc": "2026-07-05T20:00:00.000Z",
+      "utcOffset": -4,
+      "venueId": "metlife-stadium",
+      "venueLabel": "MetLife Stadium, East Rutherford",
+      "home": {
+        "type": "placeholder",
+        "label": "Winner Match 76",
+        "zhLabel": "胜者 比赛 76"
+      },
+      "away": {
+        "type": "placeholder",
+        "label": "Winner Match 78",
+        "zhLabel": "胜者 比赛 78"
+      },
+      "status": "scheduled",
+      "score": null
+    },
+    {
+      "id": "m092",
+      "matchNumber": 92,
+      "phase": "16强",
+      "round": "Round of 16",
+      "group": null,
+      "date": "2026-07-05",
+      "localTime": "6:00 p.m. UTC-6",
+      "kickoffUtc": "2026-07-06T00:00:00.000Z",
+      "utcOffset": -6,
+      "venueId": "estadio-azteca",
+      "venueLabel": "Estadio Azteca, Mexico City",
+      "home": {
+        "type": "placeholder",
+        "label": "Winner Match 79",
+        "zhLabel": "胜者 比赛 79"
+      },
+      "away": {
+        "type": "placeholder",
+        "label": "Winner Match 80",
+        "zhLabel": "胜者 比赛 80"
+      },
+      "status": "scheduled",
+      "score": null
+    },
+    {
+      "id": "m093",
+      "matchNumber": 93,
+      "phase": "16强",
+      "round": "Round of 16",
+      "group": null,
+      "date": "2026-07-06",
+      "localTime": "2:00 p.m. UTC-5",
+      "kickoffUtc": "2026-07-06T19:00:00.000Z",
+      "utcOffset": -5,
+      "venueId": "atandt-stadium",
+      "venueLabel": "AT&T Stadium, Arlington",
+      "home": {
+        "type": "placeholder",
+        "label": "Winner Match 83",
+        "zhLabel": "胜者 比赛 83"
+      },
+      "away": {
+        "type": "placeholder",
+        "label": "Winner Match 84",
+        "zhLabel": "胜者 比赛 84"
+      },
+      "status": "scheduled",
+      "score": null
+    },
+    {
+      "id": "m094",
+      "matchNumber": 94,
+      "phase": "16强",
+      "round": "Round of 16",
+      "group": null,
+      "date": "2026-07-06",
+      "localTime": "5:00 p.m. UTC-7",
+      "kickoffUtc": "2026-07-07T00:00:00.000Z",
+      "utcOffset": -7,
+      "venueId": "lumen-field",
+      "venueLabel": "Lumen Field, Seattle",
+      "home": {
+        "type": "placeholder",
+        "label": "Winner Match 81",
+        "zhLabel": "胜者 比赛 81"
+      },
+      "away": {
+        "type": "placeholder",
+        "label": "Winner Match 82",
+        "zhLabel": "胜者 比赛 82"
+      },
+      "status": "scheduled",
+      "score": null
+    },
+    {
+      "id": "m095",
+      "matchNumber": 95,
+      "phase": "16强",
+      "round": "Round of 16",
+      "group": null,
+      "date": "2026-07-07",
+      "localTime": "12:00 p.m. UTC-4",
+      "kickoffUtc": "2026-07-07T16:00:00.000Z",
+      "utcOffset": -4,
+      "venueId": "mercedes-benz-stadium",
+      "venueLabel": "Mercedes-Benz Stadium, Atlanta",
+      "home": {
+        "type": "placeholder",
+        "label": "Winner Match 86",
+        "zhLabel": "胜者 比赛 86"
+      },
+      "away": {
+        "type": "placeholder",
+        "label": "Winner Match 88",
+        "zhLabel": "胜者 比赛 88"
+      },
+      "status": "scheduled",
+      "score": null
+    },
+    {
+      "id": "m096",
+      "matchNumber": 96,
+      "phase": "16强",
+      "round": "Round of 16",
+      "group": null,
+      "date": "2026-07-07",
+      "localTime": "1:00 p.m. UTC-7",
+      "kickoffUtc": "2026-07-07T20:00:00.000Z",
+      "utcOffset": -7,
+      "venueId": "bc-place",
+      "venueLabel": "BC Place, Vancouver",
+      "home": {
+        "type": "placeholder",
+        "label": "Winner Match 85",
+        "zhLabel": "胜者 比赛 85"
+      },
+      "away": {
+        "type": "placeholder",
+        "label": "Winner Match 87",
+        "zhLabel": "胜者 比赛 87"
+      },
+      "status": "scheduled",
+      "score": null
+    },
+    {
+      "id": "m097",
+      "matchNumber": 97,
+      "phase": "四分之一决赛",
+      "round": "Quarterfinals",
+      "group": null,
+      "date": "2026-07-09",
+      "localTime": "4:00 p.m. UTC-4",
+      "kickoffUtc": "2026-07-09T20:00:00.000Z",
+      "utcOffset": -4,
+      "venueId": "gillette-stadium",
+      "venueLabel": "Gillette Stadium, Foxborough",
+      "home": {
+        "type": "placeholder",
+        "label": "Winner Match 89",
+        "zhLabel": "胜者 比赛 89"
+      },
+      "away": {
+        "type": "placeholder",
+        "label": "Winner Match 90",
+        "zhLabel": "胜者 比赛 90"
+      },
+      "status": "scheduled",
+      "score": null
+    },
+    {
+      "id": "m098",
+      "matchNumber": 98,
+      "phase": "四分之一决赛",
+      "round": "Quarterfinals",
+      "group": null,
+      "date": "2026-07-10",
+      "localTime": "12:00 p.m. UTC-7",
+      "kickoffUtc": "2026-07-10T19:00:00.000Z",
+      "utcOffset": -7,
+      "venueId": "sofi-stadium",
+      "venueLabel": "SoFi Stadium, Inglewood",
+      "home": {
+        "type": "placeholder",
+        "label": "Winner Match 93",
+        "zhLabel": "胜者 比赛 93"
+      },
+      "away": {
+        "type": "placeholder",
+        "label": "Winner Match 94",
+        "zhLabel": "胜者 比赛 94"
+      },
+      "status": "scheduled",
+      "score": null
+    },
+    {
+      "id": "m099",
+      "matchNumber": 99,
+      "phase": "四分之一决赛",
+      "round": "Quarterfinals",
+      "group": null,
+      "date": "2026-07-11",
+      "localTime": "5:00 p.m. UTC-4",
+      "kickoffUtc": "2026-07-11T21:00:00.000Z",
+      "utcOffset": -4,
+      "venueId": "hard-rock-stadium",
+      "venueLabel": "Hard Rock Stadium, Miami Gardens",
+      "home": {
+        "type": "placeholder",
+        "label": "Winner Match 91",
+        "zhLabel": "胜者 比赛 91"
+      },
+      "away": {
+        "type": "placeholder",
+        "label": "Winner Match 92",
+        "zhLabel": "胜者 比赛 92"
+      },
+      "status": "scheduled",
+      "score": null
+    },
+    {
+      "id": "m100",
+      "matchNumber": 100,
+      "phase": "四分之一决赛",
+      "round": "Quarterfinals",
+      "group": null,
+      "date": "2026-07-11",
+      "localTime": "8:00 p.m. UTC-5",
+      "kickoffUtc": "2026-07-12T01:00:00.000Z",
+      "utcOffset": -5,
+      "venueId": "arrowhead-stadium",
+      "venueLabel": "Arrowhead Stadium, Kansas City",
+      "home": {
+        "type": "placeholder",
+        "label": "Winner Match 95",
+        "zhLabel": "胜者 比赛 95"
+      },
+      "away": {
+        "type": "placeholder",
+        "label": "Winner Match 96",
+        "zhLabel": "胜者 比赛 96"
+      },
+      "status": "scheduled",
+      "score": null
+    },
+    {
+      "id": "m101",
+      "matchNumber": 101,
+      "phase": "半决赛",
+      "round": "Semifinals",
+      "group": null,
+      "date": "2026-07-14",
+      "localTime": "2:00 p.m. UTC-5",
+      "kickoffUtc": "2026-07-14T19:00:00.000Z",
+      "utcOffset": -5,
+      "venueId": "atandt-stadium",
+      "venueLabel": "AT&T Stadium, Arlington",
+      "home": {
+        "type": "placeholder",
+        "label": "Winner Match 97",
+        "zhLabel": "胜者 比赛 97"
+      },
+      "away": {
+        "type": "placeholder",
+        "label": "Winner Match 98",
+        "zhLabel": "胜者 比赛 98"
+      },
+      "status": "scheduled",
+      "score": null
+    },
+    {
+      "id": "m102",
+      "matchNumber": 102,
+      "phase": "半决赛",
+      "round": "Semifinals",
+      "group": null,
+      "date": "2026-07-15",
+      "localTime": "3:00 p.m. UTC-4",
+      "kickoffUtc": "2026-07-15T19:00:00.000Z",
+      "utcOffset": -4,
+      "venueId": "mercedes-benz-stadium",
+      "venueLabel": "Mercedes-Benz Stadium, Atlanta",
+      "home": {
+        "type": "placeholder",
+        "label": "Winner Match 99",
+        "zhLabel": "胜者 比赛 99"
+      },
+      "away": {
+        "type": "placeholder",
+        "label": "Winner Match 100",
+        "zhLabel": "胜者 比赛 100"
+      },
+      "status": "scheduled",
+      "score": null
+    },
+    {
+      "id": "m103",
+      "matchNumber": 103,
+      "phase": "三四名决赛",
+      "round": "Third place",
+      "group": null,
+      "date": "2026-07-18",
+      "localTime": "5:00 p.m. UTC-4",
+      "kickoffUtc": "2026-07-18T21:00:00.000Z",
+      "utcOffset": -4,
+      "venueId": "hard-rock-stadium",
+      "venueLabel": "Hard Rock Stadium, Miami Gardens",
+      "home": {
+        "type": "placeholder",
+        "label": "Loser Match 101",
+        "zhLabel": "负者 比赛 101"
+      },
+      "away": {
+        "type": "placeholder",
+        "label": "Loser Match 102",
+        "zhLabel": "负者 比赛 102"
+      },
+      "status": "scheduled",
+      "score": null
+    },
+    {
+      "id": "m104",
+      "matchNumber": 104,
+      "phase": "决赛",
+      "round": "Final",
+      "group": null,
+      "date": "2026-07-19",
+      "localTime": "3:00 p.m. UTC-4",
+      "kickoffUtc": "2026-07-19T19:00:00.000Z",
+      "utcOffset": -4,
+      "venueId": "metlife-stadium",
+      "venueLabel": "MetLife Stadium, East Rutherford",
+      "home": {
+        "type": "placeholder",
+        "label": "Winner Match 101",
+        "zhLabel": "胜者 比赛 101"
+      },
+      "away": {
+        "type": "placeholder",
+        "label": "Winner Match 102",
+        "zhLabel": "胜者 比赛 102"
+      },
+      "status": "scheduled",
+      "score": null
+    }
+  ],
+  "groups": {
+    "A": [
+      "Mexico",
+      "South Africa",
+      "South Korea",
+      "Czech Republic"
+    ],
+    "B": [
+      "Canada",
+      "Bosnia and Herzegovina",
+      "Qatar",
+      "Switzerland"
+    ],
+    "C": [
+      "Haiti",
+      "Scotland",
+      "Brazil",
+      "Morocco"
+    ],
+    "D": [
+      "United States",
+      "Paraguay",
+      "Australia",
+      "Turkey"
+    ],
+    "E": [
+      "Ivory Coast",
+      "Ecuador",
+      "Germany",
+      "Curaçao"
+    ],
+    "F": [
+      "Netherlands",
+      "Japan",
+      "Sweden",
+      "Tunisia"
+    ],
+    "G": [
+      "Iran",
+      "New Zealand",
+      "Belgium",
+      "Egypt"
+    ],
+    "H": [
+      "Saudi Arabia",
+      "Uruguay",
+      "Spain",
+      "Cape Verde"
+    ],
+    "I": [
+      "France",
+      "Senegal",
+      "Iraq",
+      "Norway"
+    ],
+    "J": [
+      "Argentina",
+      "Algeria",
+      "Austria",
+      "Jordan"
+    ],
+    "K": [
+      "Portugal",
+      "DR Congo",
+      "Uzbekistan",
+      "Colombia"
+    ],
+    "L": [
+      "Ghana",
+      "Panama",
+      "England",
+      "Croatia"
+    ]
+  }
+}

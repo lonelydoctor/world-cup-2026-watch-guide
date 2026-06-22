@@ -1,0 +1,19 @@
+{
+  "name": "非官方 2026 世界杯观赛管家",
+  "short_name": "2026观赛",
+  "description": "非官方中文世界杯赛程、城市、国家、对阵图和规则型观赛助手。",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#031912",
+  "theme_color": "#031912",
+  "lang": "zh-CN",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

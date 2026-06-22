@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#031912"/>
+      <stop offset=".55" stop-color="#06351f"/>
+      <stop offset="1" stop-color="#101111"/>
+    </linearGradient>
+    <radialGradient id="light" cx="30%" cy="20%" r="70%">
+      <stop offset="0" stop-color="#f5cf5b" stop-opacity=".28"/>
+      <stop offset=".45" stop-color="#f5cf5b" stop-opacity=".08"/>
+      <stop offset="1" stop-color="#f5cf5b" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1280" height="640" fill="url(#bg)"/>
+  <rect width="1280" height="640" fill="url(#light)"/>
+  <g opacity=".14" stroke="#e8f5ee">
+    <path d="M0 80h1280M0 160h1280M0 240h1280M0 320h1280M0 400h1280M0 480h1280M0 560h1280"/>
+    <path d="M80 0v640M160 0v640M240 0v640M320 0v640M400 0v640M480 0v640M560 0v640M640 0v640M720 0v640M800 0v640M880 0v640M960 0v640M1040 0v640M1120 0v640M1200 0v640"/>
+  </g>
+  <g transform="translate(72 68)">
+    <rect x="0" y="0" width="72" height="72" rx="12" fill="#f5cf5b"/>
+    <path d="M24 18h24l-4 34H28L24 18Z" fill="#031912"/>
+    <path d="M29 27h14M30 35h12M31 43h10" stroke="#f5cf5b" stroke-width="3" stroke-linecap="round"/>
+  </g>
+  <text x="72" y="200" fill="#f5cf5b" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700">UNOFFICIAL FAN PROJECT</text>
+  <text x="72" y="286" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="72" font-weight="900">2026 世界杯观赛管家</text>
+  <text x="72" y="348" fill="#d7eee3" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700">赛程筛选 · 对阵图 · 城市地图 · 日历导出</text>
+  <text x="72" y="408" fill="#9ebcaf" font-family="Arial, Helvetica, sans-serif" font-size="26">Rule-based concierge for Chinese World Cup viewers</text>
+  <g transform="translate(72 480)" fill="none" stroke="#f5cf5b" stroke-width="2">
+    <rect x="0" y="0" width="178" height="54" rx="8"/>
+    <rect x="202" y="0" width="184" height="54" rx="8"/>
+    <rect x="410" y="0" width="168" height="54" rx="8"/>
+  </g>
+  <text x="103" y="515" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700">104 Matches</text>
+  <text x="234" y="515" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700">16 Host Cities</text>
+  <text x="443" y="515" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700">6h Refresh</text>
+  <g transform="translate(760 206)">
+    <path d="M0 260 180 70h280l190 190H0Z" fill="#0b5b37" opacity=".9"/>
+    <path d="M180 70h280M90 165h550M0 260h650M325 70v190" stroke="#e8f5ee" stroke-opacity=".4" stroke-width="4" fill="none"/>
+    <ellipse cx="325" cy="166" rx="80" ry="42" stroke="#e8f5ee" stroke-opacity=".4" stroke-width="4" fill="none"/>
+    <path d="M210 70v78h230V70" stroke="#e8f5ee" stroke-opacity=".4" stroke-width="4" fill="none"/>
+    <g fill="#f5cf5b" opacity=".8">
+      <circle cx="110" cy="18" r="5"/>
+      <circle cx="170" cy="7" r="4"/>
+      <circle cx="235" cy="2" r="5"/>
+      <circle cx="325" cy="0" r="5"/>
+      <circle cx="415" cy="3" r="5"/>
+      <circle cx="492" cy="12" r="4"/>
+      <circle cx="558" cy="28" r="5"/>
+    </g>
+  </g>
+</svg>

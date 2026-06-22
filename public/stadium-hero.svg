@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-label="Night football stadium">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#031912"/>
+      <stop offset=".46" stop-color="#062a21"/>
+      <stop offset="1" stop-color="#101111"/>
+    </linearGradient>
+    <linearGradient id="pitch" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0b5b37"/>
+      <stop offset="1" stop-color="#06351f"/>
+    </linearGradient>
+    <radialGradient id="light" cx="50%" cy="0%" r="62%">
+      <stop offset="0" stop-color="#f5cf5b" stop-opacity=".52"/>
+      <stop offset=".36" stop-color="#f5cf5b" stop-opacity=".16"/>
+      <stop offset="1" stop-color="#f5cf5b" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1600" height="900" fill="url(#sky)"/>
+  <ellipse cx="800" cy="110" rx="760" ry="210" fill="url(#light)"/>
+  <path d="M95 285C270 170 1325 170 1505 285v115H95V285Z" fill="#13231f"/>
+  <path d="M155 306C338 224 1262 224 1445 306v66H155v-66Z" fill="#1d312b"/>
+  <g opacity=".48">
+    <path d="M185 330h1230" stroke="#e8f5ee" stroke-opacity=".26" stroke-width="4"/>
+    <path d="M210 364h1180" stroke="#e8f5ee" stroke-opacity=".18" stroke-width="3"/>
+    <path d="M240 397h1120" stroke="#e8f5ee" stroke-opacity=".12" stroke-width="3"/>
+  </g>
+  <g fill="#f5cf5b" opacity=".75">
+    <circle cx="255" cy="260" r="5"/>
+    <circle cx="328" cy="246" r="4"/>
+    <circle cx="414" cy="236" r="5"/>
+    <circle cx="511" cy="228" r="4"/>
+    <circle cx="618" cy="224" r="5"/>
+    <circle cx="737" cy="222" r="4"/>
+    <circle cx="859" cy="222" r="4"/>
+    <circle cx="981" cy="225" r="5"/>
+    <circle cx="1092" cy="231" r="4"/>
+    <circle cx="1198" cy="239" r="5"/>
+    <circle cx="1291" cy="251" r="4"/>
+    <circle cx="1370" cy="266" r="5"/>
+  </g>
+  <path d="M-60 900 420 470h760l480 430H-60Z" fill="url(#pitch)"/>
+  <g fill="none" stroke="#e8f5ee" stroke-opacity=".42">
+    <path d="M421 470h758" stroke-width="5"/>
+    <path d="M235 637h1130" stroke-width="4"/>
+    <path d="M62 792h1476" stroke-width="4"/>
+    <path d="M800 470v430" stroke-width="4"/>
+    <ellipse cx="800" cy="638" rx="128" ry="60" stroke-width="4"/>
+    <path d="M555 470v130h490V470" stroke-width="4"/>
+    <path d="M682 470v72h236v-72" stroke-width="3"/>
+  </g>
+  <g opacity=".24">
+    <path d="M420 470 235 900" stroke="#e8f5ee" stroke-width="3"/>
+    <path d="M540 470 430 900" stroke="#e8f5ee" stroke-width="3"/>
+    <path d="M660 470 620 900" stroke="#e8f5ee" stroke-width="3"/>
+    <path d="M940 470 980 900" stroke="#e8f5ee" stroke-width="3"/>
+    <path d="M1060 470 1170 900" stroke="#e8f5ee" stroke-width="3"/>
+    <path d="M1180 470 1365 900" stroke="#e8f5ee" stroke-width="3"/>
+  </g>
+  <rect x="0" y="0" width="1600" height="900" fill="#031912" opacity=".18"/>
+</svg>

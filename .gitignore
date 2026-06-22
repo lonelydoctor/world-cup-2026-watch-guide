@@ -1,0 +1,13 @@
+.next
+node_modules
+out
+dist
+.env*
+coverage
+*.tsbuildinfo
+data/runtime
+.DS_Store
+*.log
+playwright-report
+test-results
+.playwright-mcp
