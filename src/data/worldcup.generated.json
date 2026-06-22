@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-22T17:04:54.255Z",
+  "generatedAt": "2026-06-22T20:53:53.836Z",
   "source": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup",
   "sourceUrl": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup",
   "matches": [
@@ -1109,8 +1109,11 @@
         "type": "team",
         "name": "Austria"
       },
-      "status": "scheduled",
-      "score": null
+      "status": "finished",
+      "score": {
+        "home": 2,
+        "away": 0
+      }
     },
     {
       "id": "m044",
