@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-23T15:11:41.448Z",
+  "generatedAt": "2026-06-23T20:11:45.743Z",
   "source": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup",
   "sourceUrl": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup",
   "matches": [
@@ -1213,8 +1213,11 @@
         "type": "team",
         "name": "Uzbekistan"
       },
-      "status": "scheduled",
-      "score": null
+      "status": "finished",
+      "score": {
+        "home": 5,
+        "away": 0
+      }
     },
     {
       "id": "m048",
