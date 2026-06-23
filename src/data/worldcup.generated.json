@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-22T20:53:53.836Z",
+  "generatedAt": "2026-06-23T03:57:21.791Z",
   "source": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup",
   "sourceUrl": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup",
   "matches": [
@@ -1063,8 +1063,11 @@
         "type": "team",
         "name": "Senegal"
       },
-      "status": "scheduled",
-      "score": null
+      "status": "finished",
+      "score": {
+        "home": 3,
+        "away": 2
+      }
     },
     {
       "id": "m042",
@@ -1086,8 +1089,11 @@
         "type": "team",
         "name": "Iraq"
       },
-      "status": "scheduled",
-      "score": null
+      "status": "finished",
+      "score": {
+        "home": 3,
+        "away": 0
+      }
     },
     {
       "id": "m043",
