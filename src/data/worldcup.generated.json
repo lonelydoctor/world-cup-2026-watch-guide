@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-23T03:57:21.791Z",
+  "generatedAt": "2026-06-23T09:51:23.238Z",
   "source": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup",
   "sourceUrl": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup",
   "matches": [
@@ -1141,8 +1141,11 @@
         "type": "team",
         "name": "Algeria"
       },
-      "status": "scheduled",
-      "score": null
+      "status": "finished",
+      "score": {
+        "home": 1,
+        "away": 2
+      }
     },
     {
       "id": "m045",
@@ -2123,9 +2126,8 @@
       "venueId": "hard-rock-stadium",
       "venueLabel": "Hard Rock Stadium, Miami Gardens",
       "home": {
-        "type": "placeholder",
-        "label": "Winner Group J",
-        "zhLabel": "小组第1 J"
+        "type": "team",
+        "name": "Argentina"
       },
       "away": {
         "type": "placeholder",
