@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-23T20:11:45.743Z",
+  "generatedAt": "2026-06-24T03:58:52.011Z",
   "source": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup",
   "sourceUrl": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup",
   "matches": [
@@ -1167,8 +1167,11 @@
         "type": "team",
         "name": "Ghana"
       },
-      "status": "scheduled",
-      "score": null
+      "status": "finished",
+      "score": {
+        "home": 0,
+        "away": 0
+      }
     },
     {
       "id": "m046",
@@ -1190,8 +1193,11 @@
         "type": "team",
         "name": "Croatia"
       },
-      "status": "scheduled",
-      "score": null
+      "status": "finished",
+      "score": {
+        "home": 0,
+        "away": 1
+      }
     },
     {
       "id": "m047",
