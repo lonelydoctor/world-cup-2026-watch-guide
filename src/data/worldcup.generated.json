@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-24T03:58:52.011Z",
+  "generatedAt": "2026-06-24T09:39:00.330Z",
   "source": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup",
   "sourceUrl": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup",
   "matches": [
@@ -1245,8 +1245,11 @@
         "type": "team",
         "name": "DR Congo"
       },
-      "status": "scheduled",
-      "score": null
+      "status": "finished",
+      "score": {
+        "home": 1,
+        "away": 0
+      }
     },
     {
       "id": "m049",
