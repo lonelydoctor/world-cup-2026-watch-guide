@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-24T19:52:14.637Z",
+  "generatedAt": "2026-06-25T03:59:53.629Z",
   "source": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup",
   "sourceUrl": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup",
   "matches": [
@@ -1271,8 +1271,11 @@
         "type": "team",
         "name": "Brazil"
       },
-      "status": "scheduled",
-      "score": null
+      "status": "finished",
+      "score": {
+        "home": 0,
+        "away": 3
+      }
     },
     {
       "id": "m050",
@@ -1294,8 +1297,11 @@
         "type": "team",
         "name": "Haiti"
       },
-      "status": "scheduled",
-      "score": null
+      "status": "finished",
+      "score": {
+        "home": 4,
+        "away": 2
+      }
     },
     {
       "id": "m051",
@@ -1317,8 +1323,11 @@
         "type": "team",
         "name": "Canada"
       },
-      "status": "scheduled",
-      "score": null
+      "status": "finished",
+      "score": {
+        "home": 2,
+        "away": 1
+      }
     },
     {
       "id": "m052",
@@ -1340,8 +1349,11 @@
         "type": "team",
         "name": "Qatar"
       },
-      "status": "scheduled",
-      "score": null
+      "status": "finished",
+      "score": {
+        "home": 3,
+        "away": 1
+      }
     },
     {
       "id": "m053",
@@ -1363,8 +1375,11 @@
         "type": "team",
         "name": "Mexico"
       },
-      "status": "scheduled",
-      "score": null
+      "status": "finished",
+      "score": {
+        "home": 0,
+        "away": 3
+      }
     },
     {
       "id": "m054",
@@ -1386,8 +1401,11 @@
         "type": "team",
         "name": "South Korea"
       },
-      "status": "scheduled",
-      "score": null
+      "status": "finished",
+      "score": {
+        "home": 1,
+        "away": 0
+      }
     },
     {
       "id": "m055",
@@ -1816,14 +1834,12 @@
       "venueId": "sofi-stadium",
       "venueLabel": "SoFi Stadium, Inglewood",
       "home": {
-        "type": "placeholder",
-        "label": "Runner-up Group A",
-        "zhLabel": "小组第2 A"
+        "type": "team",
+        "name": "South Africa"
       },
       "away": {
-        "type": "placeholder",
-        "label": "Runner-up Group B",
-        "zhLabel": "小组第2 B"
+        "type": "team",
+        "name": "Canada"
       },
       "status": "scheduled",
       "score": null
@@ -1870,9 +1886,8 @@
         "zhLabel": "小组第1 F"
       },
       "away": {
-        "type": "placeholder",
-        "label": "Runner-up Group C",
-        "zhLabel": "小组第2 C"
+        "type": "team",
+        "name": "Morocco"
       },
       "status": "scheduled",
       "score": null
@@ -1890,9 +1905,8 @@
       "venueId": "nrg-stadium",
       "venueLabel": "NRG Stadium, Houston",
       "home": {
-        "type": "placeholder",
-        "label": "Winner Group C",
-        "zhLabel": "小组第1 C"
+        "type": "team",
+        "name": "Brazil"
       },
       "away": {
         "type": "placeholder",
@@ -2019,8 +2033,8 @@
       },
       "away": {
         "type": "placeholder",
-        "label": "3rd Group B/E/F/I/J",
-        "zhLabel": "最佳第三名 B/E/F/I/J"
+        "label": "3rd Group B/I",
+        "zhLabel": "最佳第三名 B/I"
       },
       "status": "scheduled",
       "score": null
@@ -2044,8 +2058,8 @@
       },
       "away": {
         "type": "placeholder",
-        "label": "3rd Group A/E/H/I/J",
-        "zhLabel": "最佳第三名 A/E/H/I/J"
+        "label": "3rd Group A/H/I/J",
+        "zhLabel": "最佳第三名 A/H/I/J"
       },
       "status": "scheduled",
       "score": null
@@ -2113,9 +2127,8 @@
       "venueId": "bc-place",
       "venueLabel": "BC Place, Vancouver",
       "home": {
-        "type": "placeholder",
-        "label": "Winner Group B",
-        "zhLabel": "小组第1 B"
+        "type": "team",
+        "name": "Switzerland"
       },
       "away": {
         "type": "placeholder",
