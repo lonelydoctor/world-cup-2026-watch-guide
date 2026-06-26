@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-25T20:07:07.564Z",
+  "generatedAt": "2026-06-26T04:06:58.300Z",
   "source": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup",
   "sourceUrl": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup",
   "matches": [
@@ -1427,8 +1427,11 @@
         "type": "team",
         "name": "Ivory Coast"
       },
-      "status": "scheduled",
-      "score": null
+      "status": "finished",
+      "score": {
+        "home": 0,
+        "away": 2
+      }
     },
     {
       "id": "m056",
@@ -1450,8 +1453,11 @@
         "type": "team",
         "name": "Germany"
       },
-      "status": "scheduled",
-      "score": null
+      "status": "finished",
+      "score": {
+        "home": 2,
+        "away": 1
+      }
     },
     {
       "id": "m057",
@@ -1473,8 +1479,11 @@
         "type": "team",
         "name": "Sweden"
       },
-      "status": "scheduled",
-      "score": null
+      "status": "finished",
+      "score": {
+        "home": 1,
+        "away": 1
+      }
     },
     {
       "id": "m058",
@@ -1496,8 +1505,11 @@
         "type": "team",
         "name": "Netherlands"
       },
-      "status": "scheduled",
-      "score": null
+      "status": "finished",
+      "score": {
+        "home": 1,
+        "away": 3
+      }
     },
     {
       "id": "m059",
@@ -1519,8 +1531,11 @@
         "type": "team",
         "name": "United States"
       },
-      "status": "scheduled",
-      "score": null
+      "status": "finished",
+      "score": {
+        "home": 3,
+        "away": 2
+      }
     },
     {
       "id": "m060",
@@ -1542,8 +1557,11 @@
         "type": "team",
         "name": "Australia"
       },
-      "status": "scheduled",
-      "score": null
+      "status": "finished",
+      "score": {
+        "home": 0,
+        "away": 0
+      }
     },
     {
       "id": "m061",
@@ -1862,8 +1880,8 @@
       },
       "away": {
         "type": "placeholder",
-        "label": "3rd Group A/B/C/D/F",
-        "zhLabel": "最佳第三名 A/B/C/D/F"
+        "label": "3rd Group C/D/F",
+        "zhLabel": "最佳第三名 C/D/F"
       },
       "status": "scheduled",
       "score": null
@@ -1881,9 +1899,8 @@
       "venueId": "estadio-bbva",
       "venueLabel": "Estadio BBVA, Guadalupe",
       "home": {
-        "type": "placeholder",
-        "label": "Winner Group F",
-        "zhLabel": "小组第1 F"
+        "type": "team",
+        "name": "Netherlands"
       },
       "away": {
         "type": "team",
@@ -1909,9 +1926,8 @@
         "name": "Brazil"
       },
       "away": {
-        "type": "placeholder",
-        "label": "Runner-up Group F",
-        "zhLabel": "小组第2 F"
+        "type": "team",
+        "name": "Japan"
       },
       "status": "scheduled",
       "score": null
@@ -1935,8 +1951,8 @@
       },
       "away": {
         "type": "placeholder",
-        "label": "3rd Group C/D/F/G/H",
-        "zhLabel": "最佳第三名 C/D/F/G/H"
+        "label": "3rd Group D/F/G",
+        "zhLabel": "最佳第三名 D/F/G"
       },
       "status": "scheduled",
       "score": null
@@ -1954,9 +1970,8 @@
       "venueId": "atandt-stadium",
       "venueLabel": "AT&T Stadium, Arlington",
       "home": {
-        "type": "placeholder",
-        "label": "Runner-up Group E",
-        "zhLabel": "小组第2 E"
+        "type": "team",
+        "name": "Ivory Coast"
       },
       "away": {
         "type": "placeholder",
@@ -1984,8 +1999,8 @@
       },
       "away": {
         "type": "placeholder",
-        "label": "3rd Group C/E/F/H/I",
-        "zhLabel": "最佳第三名 C/E/F/H/I"
+        "label": "3rd Group C/E/H",
+        "zhLabel": "最佳第三名 C/E/H"
       },
       "status": "scheduled",
       "score": null
@@ -2009,8 +2024,8 @@
       },
       "away": {
         "type": "placeholder",
-        "label": "3rd Group E/H/I/J/K",
-        "zhLabel": "最佳第三名 E/H/I/J/K"
+        "label": "3rd Group E/I/J/K",
+        "zhLabel": "最佳第三名 E/I/J/K"
       },
       "status": "scheduled",
       "score": null
@@ -2032,9 +2047,8 @@
         "name": "United States"
       },
       "away": {
-        "type": "placeholder",
-        "label": "3rd Group B/I",
-        "zhLabel": "最佳第三名 B/I"
+        "type": "team",
+        "name": "Bosnia and Herzegovina"
       },
       "status": "scheduled",
       "score": null
@@ -2200,9 +2214,8 @@
       "venueId": "atandt-stadium",
       "venueLabel": "AT&T Stadium, Arlington",
       "home": {
-        "type": "placeholder",
-        "label": "Runner-up Group D",
-        "zhLabel": "小组第2 D"
+        "type": "team",
+        "name": "Australia"
       },
       "away": {
         "type": "placeholder",
