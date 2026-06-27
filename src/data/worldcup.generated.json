@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-26T19:56:40.185Z",
+  "generatedAt": "2026-06-27T03:52:38.086Z",
   "source": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup",
   "sourceUrl": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup",
   "matches": [
@@ -1583,8 +1583,11 @@
         "type": "team",
         "name": "France"
       },
-      "status": "scheduled",
-      "score": null
+      "status": "finished",
+      "score": {
+        "home": 1,
+        "away": 4
+      }
     },
     {
       "id": "m062",
@@ -1606,8 +1609,11 @@
         "type": "team",
         "name": "Iraq"
       },
-      "status": "scheduled",
-      "score": null
+      "status": "finished",
+      "score": {
+        "home": 5,
+        "away": 0
+      }
     },
     {
       "id": "m063",
@@ -1675,8 +1681,11 @@
         "type": "team",
         "name": "Saudi Arabia"
       },
-      "status": "scheduled",
-      "score": null
+      "status": "finished",
+      "score": {
+        "home": 0,
+        "away": 0
+      }
     },
     {
       "id": "m066",
@@ -1698,8 +1707,11 @@
         "type": "team",
         "name": "Spain"
       },
-      "status": "scheduled",
-      "score": null
+      "status": "finished",
+      "score": {
+        "home": 0,
+        "away": 1
+      }
     },
     {
       "id": "m067",
@@ -1879,9 +1891,8 @@
         "name": "Germany"
       },
       "away": {
-        "type": "placeholder",
-        "label": "3rd Group C/D/F",
-        "zhLabel": "最佳第三名 C/D/F"
+        "type": "team",
+        "name": "Paraguay"
       },
       "status": "scheduled",
       "score": null
@@ -1945,14 +1956,12 @@
       "venueId": "metlife-stadium",
       "venueLabel": "MetLife Stadium, East Rutherford",
       "home": {
-        "type": "placeholder",
-        "label": "Winner Group I",
-        "zhLabel": "小组第1 I"
+        "type": "team",
+        "name": "France"
       },
       "away": {
-        "type": "placeholder",
-        "label": "3rd Group D/F/G",
-        "zhLabel": "最佳第三名 D/F/G"
+        "type": "team",
+        "name": "Sweden"
       },
       "status": "scheduled",
       "score": null
@@ -1974,9 +1983,8 @@
         "name": "Ivory Coast"
       },
       "away": {
-        "type": "placeholder",
-        "label": "Runner-up Group I",
-        "zhLabel": "小组第2 I"
+        "type": "team",
+        "name": "Norway"
       },
       "status": "scheduled",
       "score": null
@@ -1999,8 +2007,8 @@
       },
       "away": {
         "type": "placeholder",
-        "label": "3rd Group C/E/H",
-        "zhLabel": "最佳第三名 C/E/H"
+        "label": "3rd Group C/E",
+        "zhLabel": "最佳第三名 C/E"
       },
       "status": "scheduled",
       "score": null
@@ -2024,8 +2032,8 @@
       },
       "away": {
         "type": "placeholder",
-        "label": "3rd Group E/I/J/K",
-        "zhLabel": "最佳第三名 E/I/J/K"
+        "label": "3rd Group I/J/K",
+        "zhLabel": "最佳第三名 I/J/K"
       },
       "status": "scheduled",
       "score": null
@@ -2072,8 +2080,8 @@
       },
       "away": {
         "type": "placeholder",
-        "label": "3rd Group A/H/I/J",
-        "zhLabel": "最佳第三名 A/H/I/J"
+        "label": "3rd Group A/I/J",
+        "zhLabel": "最佳第三名 A/I/J"
       },
       "status": "scheduled",
       "score": null
@@ -2116,9 +2124,8 @@
       "venueId": "sofi-stadium",
       "venueLabel": "SoFi Stadium, Inglewood",
       "home": {
-        "type": "placeholder",
-        "label": "Winner Group H",
-        "zhLabel": "小组第1 H"
+        "type": "team",
+        "name": "Spain"
       },
       "away": {
         "type": "placeholder",
@@ -2146,8 +2153,8 @@
       },
       "away": {
         "type": "placeholder",
-        "label": "3rd Group E/F/G/I/J",
-        "zhLabel": "最佳第三名 E/F/G/I/J"
+        "label": "3rd Group E/G/I/J",
+        "zhLabel": "最佳第三名 E/G/I/J"
       },
       "status": "scheduled",
       "score": null
@@ -2169,9 +2176,8 @@
         "name": "Argentina"
       },
       "away": {
-        "type": "placeholder",
-        "label": "Runner-up Group H",
-        "zhLabel": "小组第2 H"
+        "type": "team",
+        "name": "Cape Verde"
       },
       "status": "scheduled",
       "score": null
@@ -2195,8 +2201,8 @@
       },
       "away": {
         "type": "placeholder",
-        "label": "3rd Group D/E/I/J/L",
-        "zhLabel": "最佳第三名 D/E/I/J/L"
+        "label": "3rd Group E/I/L",
+        "zhLabel": "最佳第三名 E/I/L"
       },
       "status": "scheduled",
       "score": null
