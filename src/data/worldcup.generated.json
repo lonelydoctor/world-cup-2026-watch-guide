@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-27T03:52:38.086Z",
+  "generatedAt": "2026-06-27T08:42:13.354Z",
   "source": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup",
   "sourceUrl": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup",
   "matches": [
@@ -1635,8 +1635,11 @@
         "type": "team",
         "name": "Iran"
       },
-      "status": "scheduled",
-      "score": null
+      "status": "finished",
+      "score": {
+        "home": 1,
+        "away": 1
+      }
     },
     {
       "id": "m064",
@@ -1658,8 +1661,11 @@
         "type": "team",
         "name": "Belgium"
       },
-      "status": "scheduled",
-      "score": null
+      "status": "finished",
+      "score": {
+        "home": 1,
+        "away": 5
+      }
     },
     {
       "id": "m065",
@@ -2074,9 +2080,8 @@
       "venueId": "lumen-field",
       "venueLabel": "Lumen Field, Seattle",
       "home": {
-        "type": "placeholder",
-        "label": "Winner Group G",
-        "zhLabel": "小组第1 G"
+        "type": "team",
+        "name": "Belgium"
       },
       "away": {
         "type": "placeholder",
@@ -2153,8 +2158,8 @@
       },
       "away": {
         "type": "placeholder",
-        "label": "3rd Group E/G/I/J",
-        "zhLabel": "最佳第三名 E/G/I/J"
+        "label": "3rd Group G/J",
+        "zhLabel": "最佳第三名 G/J"
       },
       "status": "scheduled",
       "score": null
@@ -2224,9 +2229,8 @@
         "name": "Australia"
       },
       "away": {
-        "type": "placeholder",
-        "label": "Runner-up Group G",
-        "zhLabel": "小组第2 G"
+        "type": "team",
+        "name": "Egypt"
       },
       "status": "scheduled",
       "score": null
