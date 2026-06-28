@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-27T19:27:25.009Z",
+  "generatedAt": "2026-06-28T04:14:54.973Z",
   "source": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup",
   "sourceUrl": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup",
   "matches": [
@@ -1739,8 +1739,11 @@
         "type": "team",
         "name": "England"
       },
-      "status": "scheduled",
-      "score": null
+      "status": "finished",
+      "score": {
+        "home": 0,
+        "away": 2
+      }
     },
     {
       "id": "m068",
@@ -1762,8 +1765,11 @@
         "type": "team",
         "name": "Ghana"
       },
-      "status": "scheduled",
-      "score": null
+      "status": "finished",
+      "score": {
+        "home": 2,
+        "away": 1
+      }
     },
     {
       "id": "m069",
@@ -1785,8 +1791,11 @@
         "type": "team",
         "name": "Austria"
       },
-      "status": "scheduled",
-      "score": null
+      "status": "finished",
+      "score": {
+        "home": 3,
+        "away": 3
+      }
     },
     {
       "id": "m070",
@@ -1808,8 +1817,11 @@
         "type": "team",
         "name": "Argentina"
       },
-      "status": "scheduled",
-      "score": null
+      "status": "finished",
+      "score": {
+        "home": 1,
+        "away": 3
+      }
     },
     {
       "id": "m071",
@@ -1831,8 +1843,11 @@
         "type": "team",
         "name": "Portugal"
       },
-      "status": "scheduled",
-      "score": null
+      "status": "finished",
+      "score": {
+        "home": 0,
+        "away": 0
+      }
     },
     {
       "id": "m072",
@@ -1854,8 +1869,11 @@
         "type": "team",
         "name": "Uzbekistan"
       },
-      "status": "scheduled",
-      "score": null
+      "status": "finished",
+      "score": {
+        "home": 3,
+        "away": 1
+      }
     },
     {
       "id": "m073",
@@ -2012,9 +2030,8 @@
         "name": "Mexico"
       },
       "away": {
-        "type": "placeholder",
-        "label": "3rd Group C/E",
-        "zhLabel": "最佳第三名 C/E"
+        "type": "team",
+        "name": "Ecuador"
       },
       "status": "scheduled",
       "score": null
@@ -2032,14 +2049,12 @@
       "venueId": "mercedes-benz-stadium",
       "venueLabel": "Mercedes-Benz Stadium, Atlanta",
       "home": {
-        "type": "placeholder",
-        "label": "Winner Group L",
-        "zhLabel": "小组第1 L"
+        "type": "team",
+        "name": "England"
       },
       "away": {
-        "type": "placeholder",
-        "label": "3rd Group I/J/K",
-        "zhLabel": "最佳第三名 I/J/K"
+        "type": "team",
+        "name": "DR Congo"
       },
       "status": "scheduled",
       "score": null
@@ -2084,9 +2099,8 @@
         "name": "Belgium"
       },
       "away": {
-        "type": "placeholder",
-        "label": "3rd Group A/I/J",
-        "zhLabel": "最佳第三名 A/I/J"
+        "type": "team",
+        "name": "Senegal"
       },
       "status": "scheduled",
       "score": null
@@ -2104,14 +2118,12 @@
       "venueId": "bmo-field",
       "venueLabel": "BMO Field, Toronto",
       "home": {
-        "type": "placeholder",
-        "label": "Runner-up Group K",
-        "zhLabel": "小组第2 K"
+        "type": "team",
+        "name": "Portugal"
       },
       "away": {
-        "type": "placeholder",
-        "label": "Runner-up Group L",
-        "zhLabel": "小组第2 L"
+        "type": "team",
+        "name": "Croatia"
       },
       "status": "scheduled",
       "score": null
@@ -2133,9 +2145,8 @@
         "name": "Spain"
       },
       "away": {
-        "type": "placeholder",
-        "label": "Runner-up Group J",
-        "zhLabel": "小组第2 J"
+        "type": "team",
+        "name": "Austria"
       },
       "status": "scheduled",
       "score": null
@@ -2157,9 +2168,8 @@
         "name": "Switzerland"
       },
       "away": {
-        "type": "placeholder",
-        "label": "3rd Group G/J",
-        "zhLabel": "最佳第三名 G/J"
+        "type": "team",
+        "name": "Algeria"
       },
       "status": "scheduled",
       "score": null
@@ -2200,14 +2210,12 @@
       "venueId": "arrowhead-stadium",
       "venueLabel": "Arrowhead Stadium, Kansas City",
       "home": {
-        "type": "placeholder",
-        "label": "Winner Group K",
-        "zhLabel": "小组第1 K"
+        "type": "team",
+        "name": "Colombia"
       },
       "away": {
-        "type": "placeholder",
-        "label": "3rd Group E/I/L",
-        "zhLabel": "最佳第三名 E/I/L"
+        "type": "team",
+        "name": "Ghana"
       },
       "status": "scheduled",
       "score": null
