@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-28T19:27:44.448Z",
+  "generatedAt": "2026-06-29T04:21:45.315Z",
   "source": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup",
   "sourceUrl": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup",
   "matches": [
@@ -1895,8 +1895,11 @@
         "type": "team",
         "name": "Canada"
       },
-      "status": "scheduled",
-      "score": null
+      "status": "finished",
+      "score": {
+        "home": 0,
+        "away": 1
+      }
     },
     {
       "id": "m074",
@@ -2281,9 +2284,8 @@
       "venueId": "nrg-stadium",
       "venueLabel": "NRG Stadium, Houston",
       "home": {
-        "type": "placeholder",
-        "label": "Winner Match 73",
-        "zhLabel": "胜者 比赛 73"
+        "type": "team",
+        "name": "Canada"
       },
       "away": {
         "type": "placeholder",
