@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-29T15:58:00.220Z",
+  "generatedAt": "2026-06-29T20:04:57.212Z",
   "source": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup",
   "sourceUrl": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup",
   "matches": [
@@ -1967,8 +1967,11 @@
         "type": "team",
         "name": "Japan"
       },
-      "status": "scheduled",
-      "score": null
+      "status": "finished",
+      "score": {
+        "home": 2,
+        "away": 1
+      }
     },
     {
       "id": "m077",
@@ -2308,9 +2311,8 @@
       "venueId": "metlife-stadium",
       "venueLabel": "MetLife Stadium, East Rutherford",
       "home": {
-        "type": "placeholder",
-        "label": "Winner Match 76",
-        "zhLabel": "胜者 比赛 76"
+        "type": "team",
+        "name": "Brazil"
       },
       "away": {
         "type": "placeholder",
