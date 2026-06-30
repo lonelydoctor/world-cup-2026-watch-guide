@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-30T14:28:32.624Z",
+  "generatedAt": "2026-06-30T20:04:38.100Z",
   "source": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup",
   "sourceUrl": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup",
   "matches": [
@@ -2022,8 +2022,11 @@
         "type": "team",
         "name": "Norway"
       },
-      "status": "scheduled",
-      "score": null
+      "status": "finished",
+      "score": {
+        "home": 1,
+        "away": 2
+      }
     },
     {
       "id": "m079",
@@ -2319,9 +2322,8 @@
         "name": "Brazil"
       },
       "away": {
-        "type": "placeholder",
-        "label": "Winner Match 78",
-        "zhLabel": "胜者 比赛 78"
+        "type": "team",
+        "name": "Norway"
       },
       "status": "scheduled",
       "score": null
