@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-29T20:04:57.212Z",
+  "generatedAt": "2026-06-30T04:01:56.730Z",
   "source": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup",
   "sourceUrl": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup",
   "matches": [
@@ -1921,8 +1921,11 @@
         "type": "team",
         "name": "Paraguay"
       },
-      "status": "scheduled",
-      "score": null
+      "status": "finished",
+      "score": {
+        "home": 1,
+        "away": 1
+      }
     },
     {
       "id": "m075",
@@ -1944,8 +1947,11 @@
         "type": "team",
         "name": "Morocco"
       },
-      "status": "scheduled",
-      "score": null
+      "status": "finished",
+      "score": {
+        "home": 1,
+        "away": 1
+      }
     },
     {
       "id": "m076",
@@ -2262,9 +2268,8 @@
       "venueId": "lincoln-financial-field",
       "venueLabel": "Lincoln Financial Field, Philadelphia",
       "home": {
-        "type": "placeholder",
-        "label": "Winner Match 74",
-        "zhLabel": "胜者 比赛 74"
+        "type": "team",
+        "name": "Paraguay"
       },
       "away": {
         "type": "placeholder",
@@ -2291,9 +2296,8 @@
         "name": "Canada"
       },
       "away": {
-        "type": "placeholder",
-        "label": "Winner Match 75",
-        "zhLabel": "胜者 比赛 75"
+        "type": "team",
+        "name": "Morocco"
       },
       "status": "scheduled",
       "score": null
