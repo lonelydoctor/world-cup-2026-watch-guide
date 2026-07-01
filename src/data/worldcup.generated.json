@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-30T20:04:38.100Z",
+  "generatedAt": "2026-07-01T04:17:45.403Z",
   "source": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup",
   "sourceUrl": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup",
   "matches": [
@@ -1999,8 +1999,11 @@
         "type": "team",
         "name": "Sweden"
       },
-      "status": "scheduled",
-      "score": null
+      "status": "finished",
+      "score": {
+        "home": 3,
+        "away": 0
+      }
     },
     {
       "id": "m078",
@@ -2035,8 +2038,8 @@
       "round": "Round of 32",
       "group": null,
       "date": "2026-06-30",
-      "localTime": "7:00 p.m. UTC-6",
-      "kickoffUtc": "2026-07-01T01:00:00.000Z",
+      "localTime": "8:00 p.m. UTC-6 [ S ]",
+      "kickoffUtc": "2026-07-01T02:00:00.000Z",
       "utcOffset": -6,
       "venueId": "estadio-azteca",
       "venueLabel": "Estadio Azteca, Mexico City",
@@ -2048,8 +2051,11 @@
         "type": "team",
         "name": "Ecuador"
       },
-      "status": "scheduled",
-      "score": null
+      "status": "finished",
+      "score": {
+        "home": 2,
+        "away": 0
+      }
     },
     {
       "id": "m080",
@@ -2275,9 +2281,8 @@
         "name": "Paraguay"
       },
       "away": {
-        "type": "placeholder",
-        "label": "Winner Match 77",
-        "zhLabel": "胜者 比赛 77"
+        "type": "team",
+        "name": "France"
       },
       "status": "scheduled",
       "score": null
@@ -2341,9 +2346,8 @@
       "venueId": "estadio-azteca",
       "venueLabel": "Estadio Azteca, Mexico City",
       "home": {
-        "type": "placeholder",
-        "label": "Winner Match 79",
-        "zhLabel": "胜者 比赛 79"
+        "type": "team",
+        "name": "Mexico"
       },
       "away": {
         "type": "placeholder",
