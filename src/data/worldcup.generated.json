@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-01T20:02:11.621Z",
+  "generatedAt": "2026-07-02T03:57:28.942Z",
   "source": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup",
   "sourceUrl": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup",
   "matches": [
@@ -2103,8 +2103,11 @@
         "type": "team",
         "name": "Bosnia and Herzegovina"
       },
-      "status": "scheduled",
-      "score": null
+      "status": "finished",
+      "score": {
+        "home": 2,
+        "away": 0
+      }
     },
     {
       "id": "m082",
@@ -2126,8 +2129,11 @@
         "type": "team",
         "name": "Senegal"
       },
-      "status": "scheduled",
-      "score": null
+      "status": "finished",
+      "score": {
+        "home": 3,
+        "away": 2
+      }
     },
     {
       "id": "m083",
@@ -2397,14 +2403,12 @@
       "venueId": "lumen-field",
       "venueLabel": "Lumen Field, Seattle",
       "home": {
-        "type": "placeholder",
-        "label": "Winner Match 81",
-        "zhLabel": "胜者 比赛 81"
+        "type": "team",
+        "name": "United States"
       },
       "away": {
-        "type": "placeholder",
-        "label": "Winner Match 82",
-        "zhLabel": "胜者 比赛 82"
+        "type": "team",
+        "name": "Belgium"
       },
       "status": "scheduled",
       "score": null
