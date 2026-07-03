@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-02T19:37:45.685Z",
+  "generatedAt": "2026-07-03T03:40:24.146Z",
   "source": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup",
   "sourceUrl": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup",
   "matches": [
@@ -2155,8 +2155,11 @@
         "type": "team",
         "name": "Croatia"
       },
-      "status": "scheduled",
-      "score": null
+      "status": "finished",
+      "score": {
+        "home": 2,
+        "away": 1
+      }
     },
     {
       "id": "m084",
@@ -2178,8 +2181,11 @@
         "type": "team",
         "name": "Austria"
       },
-      "status": "scheduled",
-      "score": null
+      "status": "finished",
+      "score": {
+        "home": 3,
+        "away": 0
+      }
     },
     {
       "id": "m085",
@@ -2378,14 +2384,12 @@
       "venueId": "atandt-stadium",
       "venueLabel": "AT&T Stadium, Arlington",
       "home": {
-        "type": "placeholder",
-        "label": "Winner Match 83",
-        "zhLabel": "胜者 比赛 83"
+        "type": "team",
+        "name": "Portugal"
       },
       "away": {
-        "type": "placeholder",
-        "label": "Winner Match 84",
-        "zhLabel": "胜者 比赛 84"
+        "type": "team",
+        "name": "Spain"
       },
       "status": "scheduled",
       "score": null
