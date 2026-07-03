@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-03T03:40:24.146Z",
+  "generatedAt": "2026-07-03T09:25:36.678Z",
   "source": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup",
   "sourceUrl": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup",
   "matches": [
@@ -2207,8 +2207,11 @@
         "type": "team",
         "name": "Algeria"
       },
-      "status": "scheduled",
-      "score": null
+      "status": "finished",
+      "score": {
+        "home": 2,
+        "away": 0
+      }
     },
     {
       "id": "m086",
@@ -2455,9 +2458,8 @@
       "venueId": "bc-place",
       "venueLabel": "BC Place, Vancouver",
       "home": {
-        "type": "placeholder",
-        "label": "Winner Match 85",
-        "zhLabel": "胜者 比赛 85"
+        "type": "team",
+        "name": "Switzerland"
       },
       "away": {
         "type": "placeholder",
