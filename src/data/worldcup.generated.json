@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-03T19:35:40.580Z",
+  "generatedAt": "2026-07-04T03:33:44.238Z",
   "source": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup",
   "sourceUrl": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup",
   "matches": [
@@ -2233,8 +2233,11 @@
         "type": "team",
         "name": "Cape Verde"
       },
-      "status": "scheduled",
-      "score": null
+      "status": "finished",
+      "score": {
+        "home": 3,
+        "away": 2
+      }
     },
     {
       "id": "m087",
@@ -2256,8 +2259,11 @@
         "type": "team",
         "name": "Ghana"
       },
-      "status": "scheduled",
-      "score": null
+      "status": "finished",
+      "score": {
+        "home": 1,
+        "away": 0
+      }
     },
     {
       "id": "m088",
@@ -2279,8 +2285,11 @@
         "type": "team",
         "name": "Egypt"
       },
-      "status": "scheduled",
-      "score": null
+      "status": "finished",
+      "score": {
+        "home": 1,
+        "away": 1
+      }
     },
     {
       "id": "m089",
@@ -2433,14 +2442,12 @@
       "venueId": "mercedes-benz-stadium",
       "venueLabel": "Mercedes-Benz Stadium, Atlanta",
       "home": {
-        "type": "placeholder",
-        "label": "Winner Match 86",
-        "zhLabel": "胜者 比赛 86"
+        "type": "team",
+        "name": "Argentina"
       },
       "away": {
-        "type": "placeholder",
-        "label": "Winner Match 88",
-        "zhLabel": "胜者 比赛 88"
+        "type": "team",
+        "name": "Egypt"
       },
       "status": "scheduled",
       "score": null
@@ -2462,9 +2469,8 @@
         "name": "Switzerland"
       },
       "away": {
-        "type": "placeholder",
-        "label": "Winner Match 87",
-        "zhLabel": "胜者 比赛 87"
+        "type": "team",
+        "name": "Colombia"
       },
       "status": "scheduled",
       "score": null
