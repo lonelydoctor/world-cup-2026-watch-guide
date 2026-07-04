@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-04T13:43:01.759Z",
+  "generatedAt": "2026-07-04T19:20:44.429Z",
   "source": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup",
   "sourceUrl": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup",
   "matches": [
@@ -2334,8 +2334,11 @@
         "type": "team",
         "name": "Morocco"
       },
-      "status": "scheduled",
-      "score": null
+      "status": "finished",
+      "score": {
+        "home": 0,
+        "away": 3
+      }
     },
     {
       "id": "m091",
@@ -2493,9 +2496,8 @@
         "zhLabel": "胜者 比赛 89"
       },
       "away": {
-        "type": "placeholder",
-        "label": "Winner Match 90",
-        "zhLabel": "胜者 比赛 90"
+        "type": "team",
+        "name": "Morocco"
       },
       "status": "scheduled",
       "score": null
