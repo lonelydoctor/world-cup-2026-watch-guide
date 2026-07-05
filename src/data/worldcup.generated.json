@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-04T19:20:44.429Z",
+  "generatedAt": "2026-07-05T03:51:54.506Z",
   "source": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup",
   "sourceUrl": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup",
   "matches": [
@@ -2311,8 +2311,11 @@
         "type": "team",
         "name": "France"
       },
-      "status": "scheduled",
-      "score": null
+      "status": "finished",
+      "score": {
+        "home": 0,
+        "away": 1
+      }
     },
     {
       "id": "m090",
@@ -2491,9 +2494,8 @@
       "venueId": "gillette-stadium",
       "venueLabel": "Gillette Stadium, Foxborough",
       "home": {
-        "type": "placeholder",
-        "label": "Winner Match 89",
-        "zhLabel": "胜者 比赛 89"
+        "type": "team",
+        "name": "France"
       },
       "away": {
         "type": "team",
