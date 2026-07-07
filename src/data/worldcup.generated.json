@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-07T14:46:35.889Z",
+  "generatedAt": "2026-07-07T20:02:01.656Z",
   "source": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup",
   "sourceUrl": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup",
   "matches": [
@@ -2467,8 +2467,11 @@
         "type": "team",
         "name": "Egypt"
       },
-      "status": "scheduled",
-      "score": null
+      "status": "finished",
+      "score": {
+        "home": 3,
+        "away": 2
+      }
     },
     {
       "id": "m096",
@@ -2575,9 +2578,8 @@
       "venueId": "arrowhead-stadium",
       "venueLabel": "Arrowhead Stadium, Kansas City",
       "home": {
-        "type": "placeholder",
-        "label": "Winner Match 95",
-        "zhLabel": "胜者 比赛 95"
+        "type": "team",
+        "name": "Argentina"
       },
       "away": {
         "type": "placeholder",
