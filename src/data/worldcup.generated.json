@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-06T20:03:48.833Z",
+  "generatedAt": "2026-07-07T09:50:19.793Z",
   "source": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup",
   "sourceUrl": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup",
   "matches": [
@@ -2415,8 +2415,11 @@
         "type": "team",
         "name": "Spain"
       },
-      "status": "scheduled",
-      "score": null
+      "status": "finished",
+      "score": {
+        "home": 0,
+        "away": 1
+      }
     },
     {
       "id": "m094",
@@ -2438,8 +2441,11 @@
         "type": "team",
         "name": "Belgium"
       },
-      "status": "scheduled",
-      "score": null
+      "status": "finished",
+      "score": {
+        "home": 1,
+        "away": 4
+      }
     },
     {
       "id": "m095",
@@ -2523,14 +2529,12 @@
       "venueId": "sofi-stadium",
       "venueLabel": "SoFi Stadium, Inglewood",
       "home": {
-        "type": "placeholder",
-        "label": "Winner Match 93",
-        "zhLabel": "胜者 比赛 93"
+        "type": "team",
+        "name": "Spain"
       },
       "away": {
-        "type": "placeholder",
-        "label": "Winner Match 94",
-        "zhLabel": "胜者 比赛 94"
+        "type": "team",
+        "name": "Belgium"
       },
       "status": "scheduled",
       "score": null
