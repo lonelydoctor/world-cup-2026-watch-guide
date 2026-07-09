@@ -33,6 +33,12 @@ export default function StatusPage() {
         <div className="rounded border border-white/10 bg-white/[0.055] p-5 shadow-panel">
           <h2 className="text-xl font-bold text-white">刷新策略</h2>
           <div className="mt-4 grid gap-3 text-sm text-white/68">
+            {sourceAudit.refreshStatus && !sourceAudit.refreshStatus.ok && (
+              <Row
+                label="最近一次自动刷新"
+                value={`${sourceAudit.refreshStatus.message}。系统已保留上次完整快照，避免用残缺赛程覆盖页面。`}
+              />
+            )}
             <Row label="数据来源" value="公开赛程/比分页面快照，当前以 Wikipedia 赛程摘要为主，保留 FIFA 官方赛事页作为核验来源。" />
             <Row label="刷新频率" value="世界杯期间每 6 小时尝试刷新一次；赛后周期更新，不做实时直播比分。" />
             <Row label="人工覆盖" value="可通过 manual-overrides.json 覆盖比分或淘汰赛未决席位。" />

@@ -2763,5 +2763,13 @@
       "England",
       "Croatia"
     ]
+  },
+  "refreshStatus": {
+    "ok": false,
+    "checkedAt": "2026-07-09T09:26:26.264Z",
+    "message": "Expected 104 matches, parsed 32",
+    "parsedCount": 32,
+    "expectedCount": 104,
+    "retainedGeneratedAt": "2026-06-22T05:28:16.828Z"
   }
 }

@@ -29,8 +29,9 @@ export function GET() {
           kickoffUtc: nextMatch.kickoffUtc,
           phase: nextMatch.phase,
           venue: nextMatch.venue.cityZh
-        }
+      }
       : null,
+    refreshStatus: sourceAudit.refreshStatus,
     refreshPolicy: "世界杯期间每 6 小时刷新一次公开赛程快照；不承诺分钟级直播比分。"
   });
 }

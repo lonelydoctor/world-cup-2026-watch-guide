@@ -10,6 +10,7 @@ const sourceUrl =
   "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup";
 const localSnapshot = "/tmp/worldcup2026.html";
 const matchNumberMap = JSON.parse(readFileSync(matchNumberMapPath, "utf8"));
+const expectedMatchCount = 104;
 
 const sectionLabels = {
   Group_A: { round: "Group stage", group: "A", phase: "小组赛" },
@@ -237,31 +238,84 @@ async function loadHtml() {
   return { html: await response.text(), source: sourceUrl };
 }
 
-const { html, source } = await loadHtml();
-const matches = parseMatches(html);
-
-if (matches.length !== 104) {
-  throw new Error(`Expected 104 matches, parsed ${matches.length}`);
+function buildGroups(matches) {
+  return Object.fromEntries(
+    "ABCDEFGHIJKL".split("").map((group) => [
+      group,
+      matches
+        .filter((match) => match.group === group)
+        .flatMap((match) => [match.home, match.away])
+        .filter((slot) => slot.type === "team")
+        .map((slot) => slot.name)
+        .filter((name, index, names) => names.indexOf(name) === index)
+    ])
+  );
 }
 
-const groups = Object.fromEntries(
-  "ABCDEFGHIJKL".split("").map((group) => [
-    group,
-    matches
-      .filter((match) => match.group === group)
-      .flatMap((match) => [match.home, match.away])
-      .filter((slot) => slot.type === "team")
-      .map((slot) => slot.name)
-      .filter((name, index, names) => names.indexOf(name) === index)
-  ])
-);
+function fallbackToPreviousSnapshot(reason, parsedCount = 0) {
+  if (!existsSync(outputPath)) {
+    throw new Error(`${reason}; no previous snapshot exists`);
+  }
+
+  const previous = JSON.parse(readFileSync(outputPath, "utf8"));
+  if (!Array.isArray(previous.matches) || previous.matches.length !== expectedMatchCount) {
+    throw new Error(`${reason}; previous snapshot is not complete`);
+  }
+
+  const payload = {
+    ...previous,
+    refreshStatus: {
+      ok: false,
+      checkedAt: new Date().toISOString(),
+      message: reason,
+      parsedCount,
+      expectedCount: expectedMatchCount,
+      retainedGeneratedAt: previous.generatedAt
+    }
+  };
+
+  mkdirSync(dirname(outputPath), { recursive: true });
+  writeFileSync(outputPath, `${JSON.stringify(payload, null, 2)}\n`);
+  console.warn(`${reason}; retained previous ${previous.matches.length}-match snapshot`);
+  return false;
+}
+
+let html;
+let source;
+try {
+  ({ html, source } = await loadHtml());
+} catch (error) {
+  fallbackToPreviousSnapshot(
+    `Unable to fetch source: ${error instanceof Error ? error.message : String(error)}`
+  );
+  process.exit(0);
+}
+
+const matches = parseMatches(html);
+
+if (matches.length !== expectedMatchCount) {
+  fallbackToPreviousSnapshot(
+    `Expected ${expectedMatchCount} matches, parsed ${matches.length}`,
+    matches.length
+  );
+  process.exit(0);
+}
+
+const groups = buildGroups(matches);
 
 const payload = {
   generatedAt: new Date().toISOString(),
   source,
   sourceUrl,
   matches,
-  groups
+  groups,
+  refreshStatus: {
+    ok: true,
+    checkedAt: new Date().toISOString(),
+    message: `Parsed ${matches.length} matches`,
+    parsedCount: matches.length,
+    expectedCount: expectedMatchCount
+  }
 };
 
 mkdirSync(dirname(outputPath), { recursive: true });

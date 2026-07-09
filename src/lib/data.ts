@@ -14,6 +14,7 @@ type GeneratedData = {
   sourceUrl: string;
   matches: RawMatch[];
   groups: Record<string, string[]>;
+  refreshStatus?: SourceAudit["refreshStatus"];
 };
 
 type Overrides = {
@@ -112,7 +113,8 @@ export const sourceAudit: SourceAudit = {
   generatedAt: raw.generatedAt,
   source: raw.source,
   sourceUrl: raw.sourceUrl,
-  overrideUpdatedAt: manualOverrides.updatedAt
+  overrideUpdatedAt: manualOverrides.updatedAt,
+  refreshStatus: raw.refreshStatus
 };
 
 export function getTeam(codeOrName: string) {

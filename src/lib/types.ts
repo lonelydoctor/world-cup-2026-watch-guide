@@ -98,6 +98,14 @@ export type SourceAudit = {
   source: string;
   sourceUrl: string;
   overrideUpdatedAt: string | null;
+  refreshStatus?: {
+    ok: boolean;
+    checkedAt: string;
+    message: string;
+    parsedCount?: number;
+    expectedCount?: number;
+    retainedGeneratedAt?: string;
+  };
 };
 
 export type ConciergeAnswer = {

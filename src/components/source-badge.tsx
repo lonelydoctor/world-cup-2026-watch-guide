@@ -10,6 +10,15 @@ export function SourceBadge({ audit }: { audit: SourceAudit }) {
         <ShieldCheck size={13} />
         非官方项目
       </span>
+      {audit.refreshStatus && !audit.refreshStatus.ok && (
+        <Link
+          href="/status"
+          className="inline-flex items-center gap-1 rounded border border-matchred/40 bg-matchred/16 px-2 py-1 text-white transition hover:bg-matchred/24"
+        >
+          <Activity size={13} />
+          保留上次快照
+        </Link>
+      )}
       <a
         href={audit.sourceUrl}
         target="_blank"
